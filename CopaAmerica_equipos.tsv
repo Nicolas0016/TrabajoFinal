@@ -1,0 +1,449 @@
+Seleccion	Nro_camiseta	Nombre	Posicion	Fecha_nac	Edad	Club	Altura	Destreza_pie	Cant_partidos	Cant_goles	Fecha_debut	Valor_mill_euros
+Argentina		Emiliano Martínez	Arquero	02/09/1992	31	aston-villa	1.95	diestro	36	0	04/06/2021	28
+Argentina		Gerónimo Rulli	Arquero	20/05/1992	32	ajax-amsterdam	1.89	diestro	4	0	08/09/2018	5
+Argentina		Franco Armani	Arquero	16/10/1986	37	club-atletico-river-plate	1.89	diestro	19	0	26/06/2018	1.2
+Argentina		Cristian Romero	Defensa central	27/04/1998	26	tottenham-hotspur	1.85	diestro	30	3	04/06/2021	60
+Argentina		Lisandro Martínez	Defensa central	18/01/1998	26	manchester-united	1.75	zurdo	16	0	22/03/2019	45
+Argentina		Leonardo Balerdi	Defensa central	26/01/1999	25	olympique-marseille	1.87	diestro	2	0	11/09/2019	20
+Argentina		Lucas Martínez Quarta	Defensa central	10/05/1996	28	ac-florenz	1.83	diestro	12	0	06/09/2019	14
+Argentina		Germán Pezzella	Defensa central	27/06/1991	32	real-betis-sevilla	1.87	diestro	40	3	11/11/2017	5
+Argentina		Nicolás Otamendi	Defensa central	12/02/1988	36	benfica-lissabon	1.83	diestro	111	6	20/05/2009	1.5
+Argentina		Valentín Barco	Lateral izquierdo	23/07/2004	19	brighton-amp-hove-albion	1.7	zurdo	2	0	23/03/2024	13
+Argentina		Nicolás Tagliafico	Lateral izquierdo	31/08/1992	31	olympique-lyon	1.72	zurdo	57	1	09/06/2017	8
+Argentina		Marcos Acuña	Lateral izquierdo	28/10/1991	32	fc-sevilla	1.72	zurdo	56	0	16/11/2016	5
+Argentina		Nahuel Molina	Lateral derecho	06/04/1998	26	atletico-madrid	1.75	diestro	37	1	04/06/2021	35
+Argentina		Gonzalo Montiel	Lateral derecho	01/01/1997	27	nottingham-forest	1.75	diestro	24	1	22/03/2019	10
+Argentina		Guido Rodríguez	Pivote	12/04/1994	30	real-betis-sevilla	1.85	diestro	29	1	09/06/2017	24
+Argentina		Leandro Paredes	Pivote	29/06/1994	29	as-rom	1.8	diestro	60	5	13/06/2017	8
+Argentina		Alexis Mac Allister	Mediocentro	24/12/1998	25	fc-liverpool	1.76	diestro	25	2	06/09/2019	75
+Argentina		Enzo Fernández	Mediocentro	17/01/2001	23	fc-chelsea	1.78	diestro	21	4	24/09/2022	75
+Argentina		Exequiel Palacios	Mediocentro	05/10/1998	25	bayer-04-leverkusen	1.77	diestro	28	0	08/09/2018	45
+Argentina		Rodrigo de Paul	Mediocentro	24/05/1994	30	atletico-madrid	1.8	diestro	62	2	11/10/2018	30
+Argentina		Giovani Lo Celso	Mediocentro ofensivo	09/04/1996	28	tottenham-hotspur	1.77	zurdo	50	3	11/11/2017	16
+Argentina		Valentín Carboni	Mediocentro ofensivo	05/03/2005	19	ac-monza	1.85	zurdo	1	0	26/03/2024	15
+Argentina		Alejandro Garnacho	Extremo izquierdo	01/07/2004	19	manchester-united	1.8	diestro	5	0	15/06/2023	45
+Argentina		Nicolás González	Extremo derecho	06/04/1998	26	ac-florenz	1.8	zurdo	32	5	13/10/2019	40
+Argentina		Lionel Messi	Extremo derecho	24/06/1987	36	inter-miami-cf	1.7	zurdo	180	106	17/08/2005	30
+Argentina		Ángel Correa	Extremo derecho	09/03/1995	29	atletico-madrid	1.71	diestro	24	3	05/09/2015	18
+Argentina		Ángel Di María	Extremo derecho	14/02/1988	36	benfica-lissabon	1.78	zurdo	138	30	06/09/2008	4
+Argentina		Lautaro Martínez	Delantero centro	22/08/1997	26	inter-mailand	1.74	diestro	56	22	27/03/2018	110
+Argentina		Julián Álvarez	Delantero centro	31/01/2000	24	manchester-city	1.7	diestro	29	7	04/06/2021	90
+Brasil		Alisson	Arquero	02/10/1992	31	fc-liverpool	1.93	diestro	63	0	14/10/2015	28
+Brasil		Bento	Arquero	10/06/1999	24	club-athletico-paranaense	1.9	diestro	2	0	23/03/2024	13
+Brasil		Rafael	Arquero	23/06/1989	34	fc-sao-paulo	1.92	zurdo	0	0		0.6
+Brasil		Éder Militão	Defensa central	18/01/1998	26	real-madrid	1.86	diestro	30	2	12/09/2018	70
+Brasil		Gabriel Magalhães	Defensa central	19/12/1997	26	fc-arsenal	1.9	zurdo	6	1	09/09/2023	70
+Brasil		Bremer	Defensa central	18/03/1997	27	juventus-turin	1.88	diestro	4	0	23/09/2022	60
+Brasil		Marquinhos	Defensa central	14/05/1994	30	fc-paris-saint-germain	1.83	diestro	84	7	17/11/2013	50
+Brasil		Lucas Beraldo	Defensa central	24/11/2003	20	fc-paris-saint-germain	1.82	zurdo	2	0	23/03/2024	30
+Brasil		Danilo	Defensa central	15/07/1991	32	juventus-turin	1.84	diestro	56	1	15/09/2011	12
+Brasil		Guilherme Arana	Lateral izquierdo	14/04/1997	27	clube-atletico-mineiro	1.76	zurdo	6	0	08/10/2021	10
+Brasil		Wendell	Lateral izquierdo	20/07/1993	30	fc-porto	1.76	zurdo	2	0	23/03/2024	5
+Brasil		Yan Couto	Lateral derecho	03/06/2002	22	fc-girona	1.68	diestro	3	0	13/10/2023	15
+Brasil		Bruno Guimarães	Pivote	16/11/1997	26	newcastle-united	1.82	diestro	20	1	18/11/2020	85
+Brasil		Douglas Luiz	Mediocentro	09/05/1998	26	aston-villa	1.77	diestro	13	0	19/11/2019	70
+Brasil		João Gomes	Mediocentro	12/02/2001	23	wolverhampton-wanderers	1.76	diestro	2	0	23/03/2024	35
+Brasil		Éderson	Mediocentro	07/07/1999	24	atalanta-bergamo	1.83	diestro	0	0		30
+Brasil		Lucas Paquetá	Mediocentro ofensivo	27/08/1997	26	west-ham-united	1.8	zurdo	44	10	08/09/2018	65
+Brasil		Andreas Pereira	Mediocentro ofensivo	01/01/1996	28	fc-fulham	1.78	diestro	3	0	12/09/2018	20
+Brasil		Vinicius Junior	Extremo izquierdo	12/07/2000	23	real-madrid	1.76	diestro	28	3	11/09/2019	150
+Brasil		Gabriel Martinelli	Extremo izquierdo	18/06/2001	22	fc-arsenal	1.78	diestro	9	1	25/03/2022	70
+Brasil		Sávio	Extremo izquierdo	10/04/2004	20	fc-girona	1.76	zurdo	1	0	23/03/2024	40
+Brasil		Pepê	Extremo izquierdo	24/02/1997	27	fc-porto	1.75	diestro	1	0	17/11/2023	25
+Brasil		Rodrygo	Extremo derecho	09/01/2001	23	real-madrid	1.74	diestro	22	5	15/11/2019	100
+Brasil		Raphinha	Extremo derecho	14/12/1996	27	fc-barcelona	1.76	zurdo	22	6	08/10/2021	50
+Brasil		Endrick	Delantero centro	21/07/2006	17	se-palmeiras-sao-paulo	1.73	zurdo	4	2	17/11/2023	55
+Brasil		Evanilson	Delantero centro	06/10/1999	24	fc-porto	1.83	ambidiestro	0	0		30
+Estados Unidos	1	Matt Turner	Arquero	24/06/1994	29	nottingham-forest	1.91	diestro	39	0	01/02/2021	7
+Estados Unidos	18	Ethan Horvath	Arquero	09/06/1995	28	cardiff-city	1.95	diestro	9	0	07/10/2016	1.8
+Estados Unidos		Sean Johnson	Arquero	31/05/1989	35	toronto-fc	1.9	diestro	13	0	22/01/2011	1.2
+Estados Unidos		Cameron Carter-Vickers	Defensa central	31/12/1997	26	celtic-glasgow	1.83	diestro	16	0	14/11/2017	14
+Estados Unidos	3	Chris Richards	Defensa central	28/03/2000	24	crystal-palace	1.88	diestro	16	1	16/11/2020	12
+Estados Unidos	16	Mark McKenzie	Defensa central	25/02/1999	25	krc-genk	1.84	diestro	13	0	01/02/2020	6
+Estados Unidos	12	Miles Robinson	Defensa central	14/03/1997	27	fc-cincinnati	1.88	diestro	29	3	07/09/2019	5
+Estados Unidos	13	Tim Ream	Defensa central	05/10/1987	36	fc-fulham	1.86	zurdo	56	1	17/11/2010	0.8
+Estados Unidos	5	Antonee Robinson	Lateral izquierdo	08/08/1997	26	fc-fulham	1.83	zurdo	41	4	29/05/2018	25
+Estados Unidos	23	Kristoffer Lund	Lateral izquierdo	14/05/2002	22	palermo-fc	1.84	zurdo	3	0	09/09/2023	3.5
+Estados Unidos	19	Joe Scally	Lateral derecho	31/12/2002	21	borussia-monchengladbach	1.84	diestro	9	0	02/06/2022	10
+Estados Unidos		Shaq Moore	Lateral derecho	02/11/1996	27	nashville-sc	1.8	diestro	18	1	02/06/2018	1.5
+Estados Unidos	4	Tyler Adams	Pivote	14/02/1999	25	afc-bournemouth	1.75	diestro	38	2	14/11/2017	15
+Estados Unidos	15	Johnny Cardoso	Pivote	20/09/2001	22	real-betis-sevilla	1.86	diestro	11	0	12/11/2020	10
+Estados Unidos	8	Weston McKennie	Mediocentro	28/08/1998	25	juventus-turin	1.85	diestro	51	11	14/11/2017	25
+Estados Unidos	6	Yunus Musah	Mediocentro	29/11/2002	21	ac-mailand	1.78	diestro	35	0	12/11/2020	23
+Estados Unidos		Luca de la Torre	Mediocentro	23/05/1998	26	celta-vigo	1.77	diestro	20	0	02/06/2018	3.5
+Estados Unidos		Timothy Tillman	Mediocentro	04/01/1999	25	los-angeles-fc	1.83	diestro	1	0	20/01/2024	1.5
+Estados Unidos	21	Timothy Weah	Interior derecho	22/02/2000	24	juventus-turin	1.83	diestro	37	5	28/03/2018	14
+Estados Unidos	17	Malik Tillman	Mediocentro ofensivo	28/05/2002	22	psv-eindhoven	1.87	diestro	10	0	02/06/2022	20
+Estados Unidos	7	Giovanni Reyna	Mediocentro ofensivo	13/11/2002	21	nottingham-forest	1.85	diestro	26	8	12/11/2020	18
+Estados Unidos	11	Brenden Aaronson	Mediocentro ofensivo	22/10/2000	23	1-fc-union-berlin	1.77	diestro	40	8	01/02/2020	12
+Estados Unidos	10	Christian Pulisic	Extremo derecho	18/09/1998	25	ac-mailand	1.77	diestro	66	28	30/03/2016	32
+Estados Unidos	20	Folarin Balogun	Delantero centro	03/07/2001	22	as-monaco	1.78	diestro	10	3	16/06/2023	30
+Estados Unidos		Josh Sargent	Delantero centro	20/02/2000	24	norwich-city	1.85	diestro	23	5	29/05/2018	14
+Estados Unidos	9	Ricardo Pepi	Delantero centro	09/01/2003	21	psv-eindhoven	1.85	diestro	23	10	09/09/2021	12
+Estados Unidos	14	Haji Wright	Delantero centro	27/03/1998	26	coventry-city	1.93	diestro	9	4	02/06/2022	7
+Colombia		Álvaro Montero	Arquero	29/03/1995	29	millonarios-fc	1.99	diestro	8	0	04/06/2019	2.6
+Colombia		David Ospina	Arquero	31/08/1988	35	al-nasr-riad	1.83	diestro	129	0	07/02/2007	2
+Colombia		Camilo Vargas	Arquero	09/03/1989	35	atlas-guadalajara	1.85	zurdo	21	0	11/10/2014	1.5
+Colombia		Davinson Sánchez	Defensa central	12/06/1996	27	galatasaray-istanbul	1.87	diestro	58	1	16/11/2016	17
+Colombia		Jhon Lucumí	Defensa central	26/06/1998	25	fc-bologna	1.87	zurdo	18	0	04/06/2019	11
+Colombia		Carlos Cuesta	Defensa central	09/03/1999	25	krc-genk	1.79	diestro	14	0	10/09/2021	6
+Colombia		Yerson Mosquera	Defensa central	02/05/2001	23	fc-villarreal	1.88	diestro	3	0	12/10/2023	3.5
+Colombia		Yerry Mina	Defensa central	23/09/1994	29	cagliari-calcio	1.95	diestro	43	7	08/06/2016	3
+Colombia		Deiver Machado	Lateral izquierdo	02/09/1993	30	rc-lens	1.8	zurdo	9	0	12/09/2018	4
+Colombia		Johan Mojica	Lateral izquierdo	21/08/1992	31	ca-osasuna	1.85	zurdo	24	1	26/03/2015	2.5
+Colombia		Daniel Muñoz	Lateral derecho	26/05/1996	28	crystal-palace	1.81	diestro	25	1	04/06/2021	18
+Colombia		Santiago Arias	Lateral derecho	13/01/1992	32	esporte-clube-bahia	1.78	diestro	56	0	16/10/2013	2.5
+Colombia		Jefferson Lerma	Pivote	25/10/1994	29	crystal-palace	1.79	diestro	41	1	10/11/2017	20
+Colombia		Kevin Castaño	Pivote	29/09/2000	23	fk-krasnodar	1.77	diestro	8	0	29/01/2023	5
+Colombia		Mateus Uribe	Pivote	21/03/1991	33	al-sadd-sc	1.82	diestro	53	6	26/01/2017	4
+Colombia		Richard Ríos	Mediocentro	02/06/2000	24	se-palmeiras-sao-paulo	1.85	diestro	5	0	12/10/2023	3
+Colombia		Yáser Asprilla	Mediocentro ofensivo	19/11/2003	20	fc-watford	1.86	zurdo	4	2	16/01/2022	9
+Colombia		Jorge Carrascal	Mediocentro ofensivo	25/05/1998	26	dinamo-moskau	1.8	diestro	13	1	25/09/2022	8
+Colombia		James Rodríguez	Mediocentro ofensivo	12/07/1991	32	fc-sao-paulo	1.8	zurdo	98	27	11/10/2011	4.5
+Colombia		Juan Fernando Quintero	Mediocentro ofensivo	18/01/1993	31	racing-club	1.68	zurdo	34	4	17/10/2012	2.5
+Colombia		Sebastián Gómez	Mediocentro ofensivo	03/06/1996	28	coritiba-fc	1.72	zurdo	2	0	10/12/2023	1.5
+Colombia		Luis Díaz	Extremo izquierdo	13/01/1997	27	fc-liverpool	1.8	diestro	47	11	12/09/2018	75
+Colombia		Luis Sinisterra	Extremo izquierdo	17/06/1999	24	afc-bournemouth	1.72	diestro	11	3	15/10/2019	17
+Colombia		Jhon Arias	Extremo derecho	21/09/1997	26	fluminense-rio-de-janeiro	1.68	diestro	13	1	05/06/2022	12
+Colombia		Jhon Durán	Delantero centro	13/12/2003	20	aston-villa	1.85	zurdo	8	1	25/09/2022	20
+Colombia		Jhon Córdoba	Delantero centro	11/05/1993	31	fk-krasnodar	1.88	diestro	3	1	17/11/2023	12
+Colombia		Rafael Borré	Delantero centro	15/09/1995	28	sc-internacional-porto-alegre	1.74	diestro	32	5	07/09/2019	8
+Colombia		Miguel Borja	Delantero centro	26/01/1993	31	club-atletico-river-plate	1.84	diestro	27	8	10/11/2016	4
+Uruguay		Sergio Rochet	Arquero	23/03/1993	31	sc-internacional-porto-alegre	1.9	diestro	18	0	28/01/2022	3.5
+Uruguay		Santiago Mele	Arquero	06/09/1997	26	junior-fc	1.85	diestro	4	0	28/03/2023	2
+Uruguay		José María Giménez	Defensa central	20/01/1995	29	atletico-madrid	1.85	diestro	83	8	11/09/2013	25
+Uruguay		Sebastián Cáceres	Defensa central	18/08/1999	24	cf-america	1.8	diestro	11	0	23/09/2022	7
+Uruguay		Mathías Olivera	Lateral izquierdo	31/10/1997	26	ssc-neapel	1.85	zurdo	17	1	28/01/2022	17
+Uruguay		Lucas Olaza	Lateral izquierdo	21/07/1994	29	fk-krasnodar	1.76	zurdo	1	0	15/06/2023	3
+Uruguay		Manuel Ugarte	Pivote	11/04/2001	23	fc-paris-saint-germain	1.82	diestro	15	0	06/09/2021	45
+Uruguay		César Araújo	Pivote	02/04/2001	23	orlando-city-sc	1.81	diestro	0	0		2.5
+Uruguay		Rodrigo Bentancur	Mediocentro	25/06/1997	26	tottenham-hotspur	1.87	diestro	58	1	05/10/2017	35
+Uruguay		Nahitan Nández	Mediocentro	28/12/1995	28	cagliari-calcio	1.72	diestro	55	0	09/09/2015	5
+Uruguay		Maximiliano Araújo	Extremo izquierdo	15/02/2000	24	deportivo-toluca	1.79	zurdo	7	1	15/06/2023	7.5
+Uruguay		Brian Rodríguez	Extremo izquierdo	20/05/2000	24	cf-america	1.72	diestro	22	4	07/09/2019	5
+Uruguay		Facundo Torres	Extremo derecho	13/04/2000	24	orlando-city-sc	1.77	zurdo	15	1	04/06/2021	14
+Uruguay		Facundo Pellistri	Extremo derecho	20/12/2001	22	fc-granada	1.75	diestro	19	0	28/01/2022	10
+Uruguay		Luciano Rodríguez	Extremo derecho	16/07/2003	20	liverpool-fc-montevideo	1.79	diestro	1	0	26/03/2024	4.5
+Uruguay		Darwin Núñez	Delantero centro	24/06/1999	24	fc-liverpool	1.87	diestro	22	8	16/10/2019	70
+Uruguay		Miguel Merentiel	Delantero centro	24/02/1996	28	club-atletico-boca-juniors	1.76	diestro	0	0		5
+México		Luis Malagón	Arquero	02/03/1997	27	cf-america	1.8	diestro	4	0	08/06/2023	5
+México		Raúl Rangel	Arquero	25/02/2000	24	deportivo-guadalajara	1.91	diestro	0	0		1
+México	1	Julio González	Arquero	23/04/1991	33	unam-pumas	1.82	zurdo	1	0	01/06/2024	1
+México	12	Fernando Tapia	Arquero	17/06/2001	22	queretaro-fc	1.85	diestro	0	0		1
+México	21	Álex Padilla	Arquero	01/09/2003	20	athletic-bilbao-b	1.9	diestro	0	0		0.2
+México		Johan Vásquez	Defensa central	22/10/1998	25	genua-cfc	1.85	zurdo	22	1	03/10/2019	6
+México		Víctor Guzmán	Defensa central	07/03/2002	22	cf-monterrey	1.82	diestro	3	0	20/04/2023	6
+México		Jesús Orozco Chiquete	Defensa central	19/02/2002	22	deportivo-guadalajara	1.88	zurdo	2	0	17/12/2023	6
+México		César Montes	Defensa central	24/02/1997	27	ud-almeria	1.95	diestro	45	1	14/07/2017	3
+México	4	Alexis Peña	Defensa central	13/01/1996	28	club-necaxa	1.87	diestro	2	0	17/12/2023	2.8
+México	15	Jorge Berlanga	Defensa central	18/07/2003	20	cf-pachuca	1.8	diestro	0	0		0.5
+México	14	Alejandro Gómez	Defensa central	31/01/2002	22	club-tijuana	1.83	zurdo	1	0	01/06/2024	0.4
+México	23	Tony Leone	Defensa central	28/04/2004	20	cf-monterrey	1.83	diestro	0	0		0.175
+México	3	Jesús Alcántar	Defensa central	30/07/2003	20	club-necaxa	1.92	zurdo	1	0	01/06/2024	0.1
+México		Gerardo Arteaga	Lateral izquierdo	07/09/1998	25	cf-monterrey	1.75	zurdo	22	1	12/09/2018	6
+México		Bryan González	Lateral izquierdo	10/04/2003	21	cf-pachuca	1.81	zurdo	1	0	17/12/2023	1.5
+México	5	Jorge Rodríguez	Lateral izquierdo	03/09/2001	22	club-necaxa	1.79	zurdo	1	0	01/06/2024	0.6
+México		Jorge Sánchez	Lateral derecho	10/12/1997	26	fc-porto	1.75	diestro	41	1	27/03/2019	4
+México		Israel Reyes	Lateral derecho	23/05/2000	24	cf-america	1.8	diestro	14	2	09/12/2021	4
+México		Brian García	Lateral derecho	31/10/1997	26	deportivo-toluca	1.7	diestro	1	0	17/12/2023	3
+México	2	Pablo Monroy	Lateral derecho	22/07/2002	21	unam-pumas	1.7	diestro	1	0	01/06/2024	1
+México		Edson Álvarez	Pivote	24/10/1997	26	west-ham-united	1.9	diestro	77	5	08/02/2017	35
+México		Luis Chávez	Pivote	15/01/1996	28	dinamo-moskau	1.78	zurdo	30	4	28/04/2022	9
+México		Luis Romo	Pivote	05/06/1995	29	cf-monterrey	1.84	diestro	44	3	20/11/2019	6.5
+México		Carlos Rodríguez	Pivote	03/01/1997	27	cd-cruz-azul	1.71	diestro	49	0	23/03/2019	6
+México	6	Fidel Ambríz	Pivote	21/03/2003	21	club-leon-fc	1.84	diestro	1	0	01/06/2024	4.5
+México	17	Denzell García	Pivote	15/08/2003	20	fc-juarez	1.7		1	0	01/06/2024	1.5
+México	16	Alberto Herrera	Pivote	23/02/2001	23	puebla-fc	1.73	zurdo	1	0	01/06/2024	0.2
+México		Orbelín Pineda	Mediocentro	24/03/1996	28	aek-athen	1.69	diestro	68	10	07/09/2016	7
+México		Fernando Beltrán	Mediocentro	08/05/1998	26	deportivo-guadalajara	1.63	diestro	10	0	01/10/2020	6
+México	8	Andrés Montaño	Mediocentro	22/05/2002	22	mazatlan-fc	1.75	zurdo	1	0	01/06/2024	1.2
+México	19	Rodrigo López	Mediocentro	12/11/2001	22	unam-pumas	1.73	diestro	2	0	17/12/2023	0.9
+México	18	Diego Gómez	Mediocentro	10/09/2003	20	club-necaxa	1.71	diestro	1	0	01/06/2024	0.3
+México	13	Rodrigo Huescas	Interior derecho	18/09/2003	20	cd-cruz-azul	1.7	diestro	1	0	01/06/2024	5
+México		Érick Sánchez	Mediocentro ofensivo	27/09/1999	24	cf-pachuca	1.67	diestro	27	3	15/07/2021	10
+México	20	Efraín Álvarez	Mediocentro ofensivo	19/06/2002	21	club-tijuana	1.73	zurdo	5	1	30/03/2021	4
+México	22	Ramiro Árciga	Mediocentro ofensivo	30/08/2004	19	mazatlan-fc-u23	1.8		1	0	01/06/2024	0.15
+México		César Huerta	Extremo izquierdo	03/12/2000	23	unam-pumas	1.71	diestro	6	1	10/09/2023	5
+México		Marcelo Flores	Extremo izquierdo	01/10/2003	20	tigres-uanl	1.68	diestro	3	0	09/12/2021	0.8
+México	10	Jordán Carrillo	Extremo izquierdo	30/11/2001	22	santos-laguna	1.68	diestro	2	0	28/04/2022	0.5
+México		Roberto Alvarado	Extremo derecho	07/09/1998	25	deportivo-guadalajara	1.76	zurdo	44	5	08/09/2018	7
+México		Uriel Antuna	Extremo derecho	21/08/1997	26	cd-cruz-azul	1.74	diestro	60	14	06/06/2019	4
+México		Diego Lainez	Extremo derecho	09/06/2000	23	tigres-uanl	1.68	zurdo	26	3	08/09/2018	3.5
+México	11	Santiago Gimenez	Delantero centro	18/04/2001	23	feyenoord-rotterdam	1.83	zurdo	25	4	28/10/2021	40
+México		Julián Quiñones	Delantero centro	24/03/1997	27	cf-america	1.8	diestro	3	1	18/11/2023	10
+México		Alexis Vega	Delantero centro	25/11/1997	26	deportivo-toluca	1.73	diestro	27	6	27/03/2019	5.5
+México		Guillermo Martínez	Delantero centro	15/03/1995	29	unam-pumas	1.91	zurdo	1	1	17/12/2023	3
+México	7	Ricardo Monreal	Delantero centro	10/02/2001	23	club-necaxa	1.82	diestro	1	0	01/06/2024	1.5
+México	24	Luca Martínez Dupuy	Delantero centro	05/06/2001	23	club-atletico-rosario-central	1.78	diestro	1	0	01/06/2024	1.2
+México	9	Ettson Ayón	Delantero centro	26/03/2001	23	queretaro-fc	1.8		1	0	01/06/2024	0.5
+Ecuador		Moisés Ramírez	Arquero	09/09/2000	23	independiente-del-valle	1.85	diestro	6	0	08/10/2021	1.5
+Ecuador		Alexander Domínguez	Arquero	05/06/1987	37	ldu-quito	1.95	diestro	72	0	26/03/2011	0.5
+Ecuador		Hernán Galíndez	Arquero	30/03/1987	37	club-atletico-huracan	1.89	diestro	18	0	23/06/2021	0.35
+Ecuador		Piero Hincapié	Defensa central	09/01/2002	22	bayer-04-leverkusen	1.84	zurdo	31	1	14/06/2021	40
+Ecuador		Willian Pacho	Defensa central	16/10/2001	22	eintracht-frankfurt	1.87	zurdo	10	2	28/03/2023	35
+Ecuador		Félix Torres	Defensa central	11/01/1997	27	corinthians-sao-paulo	1.87	diestro	31	5	11/09/2019	6
+Ecuador		Joel Ordóñez	Defensa central	21/04/2004	20	fc-brugge	1.88	diestro	1	0	22/03/2024	6
+Ecuador		Jackson Porozo	Defensa central	04/08/2000	23	kasimpasa	1.92	diestro	7	0	11/09/2019	3.3
+Ecuador		Andrés Micolta	Defensa central	06/06/1999	24	cf-pachuca	1.93	zurdo	0	0		0.75
+Ecuador		Layan Loor	Lateral izquierdo	23/05/2001	23	cd-universidad-catolica	1.7	zurdo	0	0		1
+Ecuador		Angelo Preciado	Lateral derecho	18/02/1998	26	ac-sparta-prag	1.73	diestro	37	0	12/10/2018	5
+Ecuador		Andrés Hurtado	Lateral derecho	23/12/2001	22	red-bull-bragantino	1.78	diestro	7	0	05/09/2021	1.8
+Ecuador		Moisés Caicedo	Pivote	02/11/2001	22	fc-chelsea	1.78	diestro	39	3	09/10/2020	75
+Ecuador		Carlos Gruezo	Pivote	19/04/1995	29	san-jose-earthquakes	1.72	diestro	56	1	17/05/2014	3
+Ecuador		Joao Ortiz	Pivote	01/05/1996	28	independiente-del-valle	1.77		8	0	28/10/2021	2
+Ecuador		José Cifuentes	Mediocentro	12/03/1999	25	ec-cruzeiro-belo-horizonte	1.78	diestro	20	0	06/09/2019	7
+Ecuador		Alan Franco	Mediocentro	21/08/1998	25	clube-atletico-mineiro	1.74	diestro	34	1	12/09/2018	3
+Ecuador		Kendry Páez	Mediocentro ofensivo	04/05/2007	17	independiente-del-valle	1.77	zurdo	6	1	12/09/2023	10
+Ecuador		John Yeboah	Mediocentro ofensivo	23/06/2000	23	rakow-czestochowa	1.7	zurdo	1	1	22/03/2024	1.5
+Ecuador		Jeremy Sarmiento	Extremo izquierdo	16/06/2002	21	brighton-amp-hove-albion	1.78	diestro	15	0	08/10/2021	4.5
+Ecuador		Janner Corozo	Extremo izquierdo	08/09/1995	28	barcelona-sc-guayaquil	1.75	diestro	3	1	28/10/2021	0.7
+Ecuador		Alan Minda	Extremo derecho	14/05/2003	21	cercle-brugge	1.71	diestro	2	0	22/03/2024	6
+Ecuador		Ángel Mena	Extremo derecho	21/01/1988	36	club-leon-fc	1.68	zurdo	56	8	29/03/2015	0.9
+Ecuador		Jordy Caicedo	Delantero centro	18/11/1997	26	atlas-guadalajara	1.87	diestro	13	2	05/06/2021	3.5
+Ecuador		Kevin Rodríguez	Delantero centro	04/03/2000	24	royale-union-saint-gilloise	1.9	diestro	11	1	12/11/2022	3
+Ecuador		Enner Valencia	Delantero centro	04/11/1989	34	sc-internacional-porto-alegre	1.77	diestro	83	40	01/03/2012	2.8
+Canadá	16	Maxime Crépeau	Arquero	11/05/1994	30	portland-timbers	1.85	diestro	16	0	06/02/2016	3
+Canadá	1	Dayne St. Clair	Arquero	09/05/1997	27	minnesota-united-fc	1.91	zurdo	4	0	06/06/2021	2
+Canadá		Tom McGill	Arquero	25/03/2000	24	brighton-amp-hove-albion	1.85	diestro	0	0		0.6
+Canadá		Grégoire Swiderski	Arquero	05/10/2005	18	fc-girondins-bordeaux-b	1.87	diestro	0	0		0.05
+Canadá	4	Kamal Miller	Defensa central	16/05/1997	27	portland-timbers	1.83	zurdo	42	0	24/06/2019	3.5
+Canadá	13	Derek Cornelius	Defensa central	25/11/1997	26	malmo-ff	1.88	zurdo	18	0	09/09/2018	2.5
+Canadá		Kyle Hiebert	Defensa central	30/07/1997	26	st-louis-city-sc	1.83		1	0	29/03/2023	1.5
+Canadá	20	Moïse Bombito	Defensa central	30/03/2000	24	colorado-rapids	1.9	diestro	4	0	28/06/2023	1
+Canadá	3	Luc De Fougerolles	Defensa central	12/10/2005	18	fc-fulham-u23	1.8		1	0	23/03/2024	0.25
+Canadá	19	Alphonso Davies	Lateral izquierdo	02/11/2000	23	fc-bayern-munchen	1.85	zurdo	45	15	14/06/2017	50
+Canadá	2	Alistair Johnston	Lateral derecho	08/10/1998	25	celtic-glasgow	1.8	diestro	40	1	26/03/2021	8.5
+Canadá		Richie Laryea	Lateral derecho	07/01/1995	29	toronto-fc	1.75	diestro	48	2	08/09/2019	2
+Canadá		Dominick Zator	Lateral derecho	18/09/1994	29	korona-kielce	1.88	diestro	2	0	28/06/2023	0.35
+Canadá	6	Samuel Piette	Pivote	12/11/1994	29	club-de-foot-montreal	1.71	diestro	68	0	04/06/2012	2
+Canadá	7	Stephen Eustaquio	Mediocentro	21/12/1996	27	fc-porto	1.77	diestro	35	4	16/11/2019	14
+Canadá	8	Ismaël Koné	Mediocentro	16/06/2002	21	fc-watford	1.88	diestro	17	2	25/03/2022	11
+Canadá		Jonathan Osorio	Mediocentro	12/06/1992	31	toronto-fc	1.75	ambidiestro	71	9	28/05/2013	2.5
+Canadá	15	Mathieu Choinière	Mediocentro	07/02/1999	25	club-de-foot-montreal	1.75	diestro	2	0	13/10/2023	2.5
+Canadá	17	Tajon Buchanan	Interior derecho	08/02/1999	25	inter-mailand	1.83	diestro	36	4	06/06/2021	8
+Canadá	14	Jacob Shaffelburg	Extremo izquierdo	26/11/1999	24	nashville-sc	1.81	zurdo	8	2	11/01/2020	3.5
+Canadá	23	Liam Millar	Extremo izquierdo	27/09/1999	24	preston-north-end	1.81	diestro	24	1	24/03/2018	2.2
+Canadá		Junior Hoilett	Extremo izquierdo	05/06/1990	34	aberdeen-fc	1.74	diestro	62	16	13/10/2015	0.15
+Canadá	10	Jonathan David	Delantero centro	14/01/2000	24	losc-lille	1.8	ambidiestro	46	26	09/09/2018	50
+Canadá	9	Cyle Larin	Delantero centro	17/04/1995	29	rcd-mallorca	1.88	diestro	66	29	23/05/2014	5
+Canadá	12	Iké Ugbo	Delantero centro	21/09/1998	25	sheffield-wednesday	1.84	diestro	9	0	13/11/2021	2.8
+Canadá	11	Theo Bair	Delantero centro	27/08/1999	24	motherwell-fc	1.91	diestro	2	1	08/01/2020	1
+Canadá		Charles-Andreas Brym	Delantero centro	08/08/1998	25	sparta-rotterdam	1.85	zurdo	11	1	08/01/2020	0.55
+Canadá		Tani Oluwaseyi	Delantero centro	15/05/2000	24	minnesota-united-fc	1.88		0	0		0.35
+Paraguay		Carlos Coronel	Arquero	29/12/1996	27	new-york-red-bulls	1.92	diestro	6	0	07/09/2023	0.8
+Paraguay		Alfredo Aguilar	Arquero	18/07/1988	35	sportivo-luqueno	1.86	diestro	3	0	12/06/2018	0.15
+Paraguay		Rodrigo Morínigo	Arquero	07/10/1998	25	club-libertad-asuncion			0	0		0.1
+Paraguay		Gustavo Gómez	Defensa central	06/05/1993	31	se-palmeiras-sao-paulo	1.85	diestro	72	4	07/09/2013	8.5
+Paraguay		Júnior Alonso	Defensa central	09/02/1993	31	fk-krasnodar	1.85	zurdo	52	2	11/10/2013	8
+Paraguay		Fabián Balbuena	Defensa central	23/08/1991	32	dinamo-moskau	1.89	diestro	34	2	01/04/2015	3
+Paraguay		Omar Alderete	Defensa central	26/12/1996	27	fc-getafe	1.88	zurdo	12	0	20/11/2018	3
+Paraguay		Gustavo Velázquez	Defensa central	17/04/1991	33	club-atletico-newells-old-boys	1.79	diestro	0	0		1.7
+Paraguay		Matías Espinoza	Lateral izquierdo	19/09/1997	26	club-libertad-asuncion	1.79	zurdo	6	0	10/10/2019	1.4
+Paraguay		Néstor Giménez	Lateral izquierdo	24/07/1997	26	club-libertad-asuncion	1.74	zurdo	0	0		1.2
+Paraguay		Iván Ramírez	Lateral derecho	08/12/1994	29	club-libertad-asuncion	1.77	diestro	3	0	02/06/2017	1.1
+Paraguay		Mathías Villasanti	Pivote	24/01/1997	27	gremio-porto-alegre	1.78	diestro	31	0	10/10/2019	10
+Paraguay		Andrés Cubas	Pivote	22/05/1996	28	vancouver-whitecaps-fc	1.66	diestro	15	0	19/11/2019	4.5
+Paraguay		Fabrizio Peralta	Pivote	02/08/2002	21	club-cerro-porteno	1.76	diestro	0	0		1
+Paraguay		Richard Sánchez	Mediocentro	29/03/1996	28	cf-america	1.7	diestro	30	1	12/06/2018	7
+Paraguay		Damián Bobadilla	Mediocentro	11/07/2001	22	fc-sao-paulo	1.81	diestro	0	0		2.5
+Paraguay		Hernesto Caballero	Mediocentro	09/04/1991	33	club-libertad-asuncion	1.83	diestro	2	0	17/11/2023	0.5
+Paraguay		Julio Enciso	Mediocentro ofensivo	23/01/2004	20	brighton-amp-hove-albion	1.73	diestro	9	0	15/06/2021	22
+Paraguay		Kaku	Mediocentro ofensivo	11/01/1995	29	al-ain-fc	1.71	zurdo	17	4	12/06/2018	5
+Paraguay		Matías Rojas	Mediocentro ofensivo	03/11/1995	28	inter-miami-cf	1.8	zurdo	18	1	23/03/2019	4
+Paraguay		Ramón Sosa	Extremo izquierdo	31/08/1999	24	club-atletico-talleres	1.79	diestro	8	0	20/11/2022	8
+Paraguay		Ángel Romero	Extremo izquierdo	04/07/1992	31	corinthians-sao-paulo	1.76	diestro	37	9	07/09/2013	1.5
+Paraguay		Miguel Almirón	Extremo derecho	10/02/1994	30	newcastle-united	1.74	zurdo	53	7	05/09/2015	20
+Paraguay		Gabriel Aguayo	Extremo derecho	10/02/2005	19	club-cerro-porteno		diestro	0	0		
+Paraguay		Derlis González	Mediapunta	20/03/1994	30	olimpia-asuncion	1.72	diestro	50	9	06/03/2014	2.5
+Paraguay		Adam Bareiro	Delantero centro	26/07/1996	27	club-atletico-san-lorenzo-de-almagro	1.84	diestro	3	0	12/10/2023	6
+Paraguay		Alex Arce	Delantero centro	16/06/1995	28	ldu-quito	1.87	diestro	0	0		3
+Chile		Brayan Cortés	Arquero	11/03/1995	29	csd-colo-colo	1.86	diestro	16	0	16/10/2018	3
+Chile		Gabriel Arias	Arquero	13/09/1987	36	racing-club	1.89	diestro	15	0	04/06/2018	1
+Chile		Claudio Bravo	Arquero	13/04/1983	41	real-betis-sevilla	1.84	diestro	147	0	11/07/2004	0.9
+Chile		Guillermo Maripán	Defensa central	06/05/1994	30	as-monaco	1.93	diestro	47	2	11/01/2017	10
+Chile		Paulo Díaz	Defensa central	25/08/1994	29	club-atletico-river-plate	1.82	diestro	46	1	28/01/2015	5
+Chile		Igor Lichnovsky	Defensa central	07/03/1994	30	cf-america	1.82	diestro	9	0	15/11/2014	4
+Chile		Matías Catalán	Defensa central	19/08/1992	31	club-atletico-talleres	1.82	diestro	6	0	28/03/2023	2
+Chile		Gabriel Suazo	Lateral izquierdo	09/08/1997	26	fc-toulouse	1.78	zurdo	24	0	02/06/2017	3.5
+Chile		Thomas Galdames	Lateral izquierdo	20/11/1998	25	club-deportivo-godoy-cruz-antonio-tomba	1.83	zurdo	0	0		2
+Chile		Felipe Loyola	Lateral derecho	09/11/2000	23	huachipato-fc	1.8	diestro	3	0	17/10/2023	1.2
+Chile		Mauricio Isla	Lateral derecho	12/06/1988	35	club-atletico-independiente	1.76	diestro	138	5	06/09/2007	0.375
+Chile		Erick Pulgar	Pivote	15/01/1994	30	flamengo-rio-de-janeiro	1.87	diestro	37	4	28/01/2015	5
+Chile		Rodrigo Echeverría	Pivote	07/04/1995	29	club-atletico-huracan	1.81	diestro	10	1	13/11/2020	3
+Chile		Marcelino Núñez	Mediocentro	01/03/2000	24	norwich-city	1.73	diestro	24	5	09/09/2021	5
+Chile		César Pérez	Mediocentro	29/11/2002	21	union-la-calera	1.76	diestro	3	0	22/11/2023	2
+Chile		Diego Valdés	Mediocentro ofensivo	30/01/1994	30	cf-america	1.79	diestro	26	1	28/01/2015	7
+Chile		Ben Brereton Díaz	Extremo izquierdo	18/04/1999	25	sheffield-united	1.85	diestro	29	7	14/06/2021	8
+Chile		Darío Osorio	Extremo derecho	24/01/2004	20	fc-midtjylland	1.84	zurdo	8	1	10/06/2022	5
+Chile		Maximiliano Guerrero	Extremo derecho	15/01/2000	24	club-universidad-de-chile	1.7	diestro	1	0	16/11/2023	1
+Chile		Cristián Zavala	Extremo derecho	03/08/1999	24	csd-colo-colo	1.7	diestro	3	0	09/12/2021	1
+Chile		Marcos Bolados	Extremo derecho	28/02/1996	28	csd-colo-colo	1.72	diestro	6	2	24/03/2018	0.75
+Chile		Víctor Dávila	Delantero centro	04/11/1997	26	zska-moskau	1.74	zurdo	9	1	12/10/2018	5
+Chile		Alexis Sánchez	Delantero centro	19/12/1988	35	inter-mailand	1.69	diestro	162	51	27/04/2006	2.5
+Chile		Eduardo Vargas	Delantero centro	20/11/1989	34	clube-atletico-mineiro	1.74	diestro	108	41	04/11/2009	1
+Perú		Pedro Gallese	Arquero	23/02/1990	34	orlando-city-sc	1.89	zurdo	104	0	07/08/2014	1.5
+Perú		Diego Romero	Arquero	17/08/2001	22	universitario-de-deportes	1.88	diestro	0	0		0.475
+Perú		Carlos Cáceda	Arquero	27/09/1991	32	fbc-melgar	1.83	diestro	8	0	29/05/2016	0.45
+Perú		Luis Abram	Defensa central	27/02/1996	28	atlanta-united-fc	1.81	zurdo	40	1	24/05/2016	3
+Perú		Anderson Santamaría	Defensa central	10/01/1992	32	atlas-guadalajara	1.84	diestro	31	0	14/06/2017	1.2
+Perú		Alexander Callens	Defensa central	04/05/1992	32	aek-athen	1.86	zurdo	41	2	18/04/2013	1.2
+Perú		Miguel Araujo	Defensa central	24/10/1994	29	portland-timbers	1.81	diestro	30	0	19/11/2014	0.85
+Perú		Carlos Zambrano	Defensa central	10/07/1989	34	club-alianza-lima	1.85	diestro	69	4	26/03/2008	0.375
+Perú		Marcos López	Lateral izquierdo	20/11/1999	24	feyenoord-rotterdam	1.76	zurdo	33	0	09/09/2018	3
+Perú		Luis Advíncula	Lateral derecho	02/03/1990	34	club-atletico-boca-juniors	1.78	diestro	117	2	04/09/2010	1.2
+Perú		Oliver Sonne	Lateral derecho	10/11/2000	23	silkeborg-if	1.84	diestro	2	0	23/03/2024	1.2
+Perú		Aldo Corzo	Lateral derecho	20/05/1989	35	universitario-de-deportes	1.75	diestro	51	0	06/02/2009	0.375
+Perú		Renato Tapia	Pivote	28/07/1995	28	celta-vigo	1.85	diestro	84	5	31/03/2015	5
+Perú		Wilder Cartagena	Pivote	23/09/1994	29	orlando-city-sc	1.8	diestro	31	0	05/09/2017	2.5
+Perú		Jesús Castillo	Pivote	11/06/2001	22	gil-vicente-fc	1.85	diestro	8	1	16/01/2022	0.8
+Perú		Sergio Peña	Mediocentro	28/09/1995	28	malmo-ff	1.78	diestro	36	4	24/03/2017	2.5
+Perú		Piero Quispe	Mediocentro ofensivo	14/08/2001	22	unam-pumas	1.68	diestro	4	1	20/11/2022	1.8
+Perú		André Carrillo	Mediocentro ofensivo	14/06/1991	32	al-qadisiyah-fc	1.8	diestro	97	11	13/07/2011	1.5
+Perú		Christian Cueva	Mediocentro ofensivo	23/11/1991	32	vereinslos	1.69	diestro	98	16	01/06/2011	0.5
+Perú		Edison Flores	Extremo izquierdo	14/05/1994	30	universitario-de-deportes	1.7	zurdo	71	15	14/08/2013	1.2
+Perú		Bryan Reyna	Extremo izquierdo	23/08/1998	25	ca-belgrano	1.72	diestro	10	2	27/09/2022	1.1
+Perú		Joao Grimaldo	Extremo derecho	20/02/2003	21	club-sporting-cristal	1.75	diestro	5	1	13/09/2023	1.5
+Perú		Andy Polo	Extremo derecho	29/09/1994	29	universitario-de-deportes	1.74	diestro	44	1	29/03/2016	1
+Perú		Franco Zanelatto	Extremo derecho	09/05/2000	24	club-alianza-lima	1.75	diestro	4	0	17/10/2023	0.85
+Perú		Gianluca Lapadula	Delantero centro	07/02/1990	34	cagliari-calcio	1.78	zurdo	31	10	14/11/2020	2
+Perú		José Rivera	Delantero centro	08/05/1997	27	universitario-de-deportes	1.7	diestro	2	0	17/11/2022	0.6
+Perú		Paolo Guerrero	Delantero centro	01/01/1984	40	universidad-cesar-vallejo	1.85	diestro	118	40	09/10/2004	0.1
+Venezuela		José Contreras	Arquero	20/10/1994	29	rionegro-aguilas	1.89	diestro	6	0	03/02/2016	0.85
+Venezuela	1	Joel Graterol	Arquero	15/05/1997	27	cd-america-de-cali	1.82	diestro	12	0	03/06/2021	0.7
+Venezuela	22	Rafael Romo	Arquero	25/02/1990	34	cd-universidad-catolica	1.96	diestro	21	0	06/06/2009	0.45
+Venezuela		Alain Baroja	Arquero	23/10/1989	34	club-always-ready	1.83	diestro	15	0	05/02/2015	0.35
+Venezuela	3	Yordan Osorio	Defensa central	10/05/1994	30	parma-calcio-1913	1.89	diestro	29	0	03/06/2017	2.2
+Venezuela	2	Nahuel Ferraresi	Defensa central	19/11/1998	25	fc-sao-paulo	1.88	diestro	25	1	16/10/2018	1.5
+Venezuela	5	Christian Makoun	Defensa central	05/03/2000	24	anorthosis-famagusta	1.85	zurdo	10	0	26/03/2022	1
+Venezuela		Carlos Vivas	Defensa central	04/04/2002	22	deportivo-tachira	1.82	diestro	0	0		0.5
+Venezuela	4	Wilker Ángel	Defensa central	18/03/1993	31	criciuma-esporte-clube	1.9	diestro	36	1	19/11/2014	0.25
+Venezuela	15	Miguel Navarro	Lateral izquierdo	26/02/1999	25	club-atletico-talleres	1.75	zurdo	11	0	25/03/2022	0.8
+Venezuela		Renne Rivas	Lateral izquierdo	21/03/2003	21	caracas-fc	1.83	zurdo	0	0		0.3
+Venezuela	13	Jon Aramburu	Lateral derecho	23/07/2002	21	real-sociedad-b	1.76	diestro	3	0	18/06/2023	2
+Venezuela	21	Alexander González	Lateral derecho	13/09/1992	31	cs-emelec	1.77	diestro	66	2	01/06/2011	0.45
+Venezuela		Roberto Rosales	Lateral derecho	20/11/1988	35	sport-club-do-recife	1.74	diestro	95	1	28/03/2007	0.3
+Venezuela	13	José Martínez	Pivote	07/08/1994	29	philadelphia-union	1.78	diestro	28	0	03/06/2021	2.5
+Venezuela		Jesús Bueno	Pivote	15/04/1999	25	philadelphia-union	1.78	diestro	0	0		0.5
+Venezuela		Teo Quintero	Pivote	02/03/1999	25	kmsk-deinze	1.88	zurdo	0	0		0.5
+Venezuela	8	Tomás Rincón	Pivote	13/01/1988	36	fc-santos	1.75	diestro	132	1	03/02/2008	0.3
+Venezuela	16	Cristian Cásseres Jr.	Mediocentro	20/01/2000	24	fc-toulouse	1.76	diestro	28	0	10/10/2020	4
+Venezuela		Daniel Pereira	Mediocentro	14/07/2000	23	austin-fc	1.75	diestro	4	0	16/06/2023	2.5
+Venezuela		Bryant Ortega	Mediocentro	28/02/2003	21	caracas-fc	1.78	diestro	0	0		0.5
+Venezuela	17	Edson Castillo	Mediocentro	18/05/1994	30	kaizer-chiefs	1.75	diestro	9	1	13/06/2021	0.45
+Venezuela		Telasco Segovia	Mediocentro	02/04/2003	21	casa-pia-ac	1.8	diestro	2	0	28/01/2022	0.4
+Venezuela		Kervin Andrade	Mediocentro ofensivo	13/04/2005	19	fortaleza-esporte-clube	1.63	diestro	1	0	24/03/2024	0.8
+Venezuela	20	Rómulo Otero	Mediocentro ofensivo	09/11/1992	31	fc-santos	1.65	diestro	51	6	23/03/2013	0.8
+Venezuela	11	Darwin Machís	Extremo izquierdo	07/02/1993	31	fc-cadiz	1.71	diestro	45	11	23/12/2011	2
+Venezuela		Matías Lacava	Extremo izquierdo	24/10/2002	21	fc-vizela	1.67	zurdo	0	0		0.7
+Venezuela	7	Jefferson Savarino	Extremo derecho	11/11/1996	27	botafogo-rio-de-janeiro	1.68	diestro	38	3	03/06/2017	4
+Venezuela	15	Jhon Murillo	Extremo derecho	21/11/1995	28	atlas-guadalajara	1.7	diestro	44	4	12/02/2015	2.5
+Venezuela	19	Jhonder Cádiz	Delantero centro	29/07/1995	28	fc-famalicao	1.9	diestro	7	0	16/10/2018	1.8
+Venezuela	23	Salomón Rondón	Delantero centro	16/09/1989	34	cf-pachuca	1.89	diestro	105	41	03/02/2008	1
+Venezuela		Jan Hurtado	Delantero centro	05/03/2000	24	ldu-quito	1.83	diestro	10	0	22/03/2019	0.6
+Jamaica	23	Jahmali Waite	Arquero	24/12/1998	25	el-paso-locomotive-fc	1.83		5	0	09/11/2022	0.175
+Jamaica	13	Coniah Boyce-Clarke	Arquero	01/03/2003	21	fc-reading	1.83	diestro	1	0	03/07/2023	0.15
+Jamaica		Jayden Hibbert	Arquero	05/08/2004	19	atlanta-united-2			0	0		
+Jamaica	13	Shaquan Davis	Arquero	11/11/2000	23	mount-pleasant-fa			0	0		
+Jamaica	6	Di'Shon Bernard	Defensa central	14/10/2000	23	sheffield-wednesday	1.88	diestro	6	1	15/06/2023	1.5
+Jamaica	17	Damion Lowe	Defensa central	05/05/1993	31	philadelphia-union	1.9	diestro	56	3	12/10/2016	0.6
+Jamaica	3	Michael Hector	Defensa central	19/07/1992	31	charlton-athletic	1.93	diestro	35	0	13/06/2015	0.35
+Jamaica		Jon Bell	Defensa central	26/08/1997	26	seattle-sounders-fc	1.85	zurdo	1	0	12/11/2023	0.3
+Jamaica	5	Richard King	Defensa central	27/11/2001	22	cavalier-sc	1.87	diestro	15	0	21/01/2022	0.05
+Jamaica	22	Greg Leigh	Lateral izquierdo	30/09/1994	29	oxford-united	1.81	zurdo	8	0	14/11/2020	0.225
+Jamaica	2	Dexter Lembikisa	Lateral derecho	04/11/2003	20	wolverhampton-wanderers-u23	1.8	diestro	10	0	12/03/2023	3
+Jamaica	4	Tayvon Gray	Lateral derecho	19/08/2002	21	new-york-city-fc	1.8	diestro	1	0	09/09/2023	1.5
+Jamaica	3	Kevon Lambert	Pivote	22/03/1997	27	san-antonio-fc	1.9		27	0	17/02/2017	0.275
+Jamaica	16	Karoy Anderson	Mediocentro	01/10/2004	19	charlton-athletic	1.8	diestro	1	0	13/10/2023	0.125
+Jamaica	18	Deshane Beckford	Interior derecho	14/04/1998	26	hartford-athletic	1.75		1	0	21/01/2022	0.175
+Jamaica	14	Kasey Palmer	Mediocentro ofensivo	09/11/1996	27	coventry-city	1.75	diestro	1	0	25/03/2021	1.2
+Jamaica	8	Daniel Johnson	Mediocentro ofensivo	08/10/1992	31	stoke-city	1.74	zurdo	18	3	14/11/2020	0.8
+Jamaica	20	Renaldo Cephas	Extremo izquierdo	18/12/1999	24	mke-ankaragucu	1.79	diestro	1	0	09/09/2023	1.3
+Jamaica	10	Bobby De Cordova-Reid	Extremo derecho	02/02/1993	31	fc-fulham	1.7	diestro	22	3	07/09/2019	5
+Jamaica	9	Alex Marshall	Extremo derecho	24/02/1998	26	portmore-united	1.75	zurdo	12	0	25/08/2017	
+Jamaica	7	Kaheim Dixon	Extremo derecho	04/10/2004	19	arnett-gardens-fc			1	0	22/03/2024	
+Jamaica	11	Shamar Nicholson	Delantero centro	16/03/1997	27	clermont-foot-63	1.92	diestro	42	11	04/02/2017	5
+Jamaica	18	Michail Antonio	Delantero centro	28/03/1990	34	west-ham-united	1.8	diestro	12	3	06/09/2021	4
+Jamaica	9	Cory Burke	Delantero centro	28/12/1991	32	new-york-red-bulls	1.93	diestro	34	9	07/09/2016	0.8
+Panamá	1	Luis Mejía	Arquero	16/03/1991	33	club-nacional	1.93	zurdo	51	0	07/06/2009	0.4
+Panamá	22	Orlando Mosquera	Arquero	25/12/1994	29	maccabi-tel-aviv	1.91	diestro	21	0	13/11/2020	0.35
+Panamá	12	César Samudio	Arquero	23/02/1994	30	cd-marathon	1.87	zurdo	3	0	11/06/2023	0.2
+Panamá	3	José Córdoba	Defensa central	03/06/2001	23	levski-sofia	1.87	zurdo	10	0	31/03/2022	3.5
+Panamá	16	Andrés Andrade	Defensa central	16/10/1998	25	lask	1.87	zurdo	34	1	17/11/2018	2.5
+Panamá	4	Fidel Escobar	Defensa central	09/01/1995	29	deportivo-saprissa	1.84	diestro	80	3	08/02/2015	0.35
+Panamá	13	Jiovany Ramos	Defensa central	26/01/1997	27	club-alianza-lima	1.89	diestro	12	0	26/02/2020	0.35
+Panamá	14	Roderick Miller	Defensa central	03/04/1992	32	turan-tovuz	1.9	zurdo	38	2	08/10/2011	0.25
+Panamá		Martín Krug	Defensa central	09/07/2006	17	ud-levante-jugend	1.92	diestro	0	0		
+Panamá	15	Éric Davis	Lateral izquierdo	31/03/1991	33	fc-kosice	1.8	zurdo	84	6	11/08/2010	0.3
+Panamá	2	César Blackman	Lateral derecho	02/04/1998	26	slovan-bratislava	1.74	diestro	19	0	23/03/2019	50.05
+Panamá	23	Iván Anderson	Lateral derecho	24/11/1997	26	fortaleza-ceif	1.75	diestro	8	1	28/01/2019	0.375
+Panamá	6	Christian Martínez	Pivote	06/02/1997	27	al-jandal-sc	1.7	diestro	36	0	18/02/2016	0.3
+Panamá	20	Aníbal Godoy	Pivote	10/02/1990	34	nashville-sc	1.83	zurdo	134	4	03/03/2010	0.3
+Panamá	8	Adalberto Carrasquilla	Mediocentro	28/11/1998	25	houston-dynamo-fc	1.7	diestro	52	2	18/04/2018	4.5
+Panamá	5	Abdiel Ayarza	Mediocentro	12/09/1992	31	club-cienciano	1.9	diestro	25	4	16/10/2019	0.5
+Panamá	8	Josiel Núñez	Mediocentro	29/01/1993	31	recreativo-huelva	1.81		16	1	07/08/2014	0.25
+Panamá	7	Puma	Extremo izquierdo	19/06/1998	25	fc-famalicao	1.8	zurdo	44	4	30/05/2018	1.5
+Panamá	11	Ismael Díaz	Extremo izquierdo	12/05/1997	27	cd-universidad-catolica	1.82	diestro	36	9	21/08/2014	1.5
+Panamá	21	Kahiser Lenis	Extremo izquierdo	23/07/2001	22	jaguares-de-cordoba	1.8	zurdo	2	2	27/08/2023	0.35
+Panamá	10	Yoel Bárcenas	Extremo derecho	23/10/1993	30	mazatlan-fc	1.75	diestro	82	8	07/08/2014	1
+Panamá	19	Alberto Quintero	Extremo derecho	18/12/1987	36	cd-plaza-amador	1.68	diestro	137	7	22/08/2007	0.2
+Panamá	14	Eduardo Guerrero	Delantero centro	21/02/2000	24	zorya-lugansk	1.8	diestro	8	0	25/10/2017	0.8
+Panamá	17	José Fajardo	Delantero centro	18/08/1993	30	cd-universidad-catolica	1.81	diestro	42	10	25/10/2017	70.05
+Panamá	18	Cecilio Waterman	Delantero centro	13/04/1991	33	club-alianza-lima	1.8	diestro	37	10	19/12/2010	50.05
+Panamá	9	Alfredo Stephens	Delantero centro	25/12/1994	29	ironi-kiryat-shmona	1.78	diestro	26	1	07/08/2014	0.3
+Costa Rica	1	Kevin Chamorro	Arquero	08/04/2000	24	deportivo-saprissa	1.87	zurdo	11	0	26/03/2023	0.35
+Costa Rica	23	Patrick Sequeira	Arquero	01/03/1999	25	ud-ibiza	1.9	diestro	3	0	23/09/2022	0.3
+Costa Rica	18	Aaron Cruz	Arquero	25/05/1991	33	cs-herediano	1.87	diestro	4	0	22/08/2021	0.2
+Costa Rica		Juan Pablo Vargas	Defensa central	06/06/1995	28	millonarios-fc	1.92	zurdo	21	3	15/01/2017	2
+Costa Rica	5	Julio Cascante	Defensa central	03/10/1993	30	austin-fc	1.85	diestro	6	1	15/12/2015	2
+Costa Rica	15	Francisco Calvo	Defensa central	08/07/1992	31	fc-juarez	1.83	zurdo	91	11	02/07/2011	1.5
+Costa Rica	5	Fernán Faerron	Defensa central	22/08/2000	23	cs-herediano	1.88	diestro	2	0	02/02/2024	0.35
+Costa Rica	4	Douglas Sequeira	Defensa central	16/09/2003	20	deportivo-saprissa		zurdo	0	0		0.175
+Costa Rica	6	Jeyland Mitchell	Defensa central	29/09/2004	19	ld-alajuelense-u20	1.87	diestro	2	0	02/02/2024	0.125
+Costa Rica	24	Yeison Molina	Defensa central	25/01/1996	28	ad-guanacasteca	1.8	diestro	1	0	31/05/2024	0.125
+Costa Rica	8	Joseph Mora	Lateral izquierdo	15/01/1993	31	deportivo-saprissa	1.75	zurdo	9	0	17/11/2018	0.5
+Costa Rica	22	Haxzel Quirós	Lateral derecho	03/06/1998	26	cs-herediano		diestro	5	0	12/09/2023	0.25
+Costa Rica	2	Gerald Taylor	Lateral derecho	28/05/2001	23	deportivo-saprissa	1.82	diestro	3	0	26/03/2023	0.225
+Costa Rica	14	Orlando Galo	Pivote	11/08/2000	23	cs-herediano	1.76	diestro	14	1	08/10/2021	0.325
+Costa Rica	13	Jefferson Brenes	Pivote	13/04/1997	27	deportivo-saprissa	1.84	diestro	11	1	11/10/2020	0.275
+Costa Rica		Alejandro Bran	Pivote	05/03/2001	23	minnesota-united-fc	1.75		6	0	22/08/2021	0.25
+Costa Rica	10	Brandon Aguilera	Mediocentro ofensivo	28/06/2003	20	nottingham-forest	1.79	zurdo	14	0	31/03/2022	0.3
+Costa Rica	26	Josimar Alcócer	Extremo izquierdo	07/07/2004	19	kvc-westerlo	1.85	diestro	9	0	26/03/2023	0.8
+Costa Rica	21	Álvaro Zamora	Extremo izquierdo	09/03/2002	22	aris-thessaloniki	1.8	diestro	9	0	23/09/2022	0.7
+Costa Rica	11	Ariel Lassiter	Extremo izquierdo	27/09/1994	29	club-de-foot-montreal	1.78	ambidiestro	19	1	23/03/2019	0.6
+Costa Rica	12	Joel Campbell	Extremo derecho	26/06/1992	31	ld-alajuelense	1.78	zurdo	137	27	06/06/2011	70.05
+Costa Rica		Manfred Ugalde	Delantero centro	25/05/2002	22	spartak-moskau	1.73	diestro	8	2	01/02/2020	7.5
+Costa Rica	19	Kenneth Vargas	Delantero centro	17/04/2002	22	cs-herediano	1.78	diestro	5	0	12/09/2023	0.8
+Costa Rica	7	Anthony Contreras	Delantero centro	29/01/2000	24	pafos-fc	1.8	diestro	27	4	13/11/2021	0.5
+Costa Rica	9	Andy Rojas	Delantero centro	05/12/2005	18	cs-herediano	1.81		0	0		0.4
+Costa Rica	17	Warren Madrigal	Delantero centro	24/07/2004	19	deportivo-saprissa	1.85	diestro	10	1	16/06/2023	0.325
+Bolivia		Guillermo Viscarra	Arquero	07/02/1993	31	the-strongest-la-paz	1.91	diestro	15	0	29/05/2016	0.7
+Bolivia		Carlos Lampe	Arquero	17/03/1987	37	bolivar-la-paz	1.92	diestro	53	0	25/02/2010	0.3
+Bolivia		Gustavo Almada	Arquero	29/04/1994	30	universitario-de-vinto	1.82	diestro	0	0		0.25
+Bolivia		José Sagredo	Defensa central	10/03/1994	30	bolivar-la-paz	1.79	zurdo	51	1	23/03/2017	70.05
+Bolivia		Adrián Jusino	Defensa central	09/07/1992	31	the-strongest-la-paz	1.85	diestro	17	0	03/03/2019	0.6
+Bolivia		Sebastián Álvarez	Defensa central	29/08/2001	22	cd-oriente-petrolero	1.9		0	0		0.5
+Bolivia		César Romero	Defensa central	03/08/2001	22	blooming-santa-cruz	1.88	diestro	0	0		0.5
+Bolivia		Luis Haquín	Defensa central	15/11/1997	26	aa-ponte-preta	1.9	diestro	29	1	07/06/2017	0.45
+Bolivia		Marcelo Suárez	Defensa central	20/12/2001	22	club-always-ready	1.78	zurdo	6	0	28/03/2023	0.45
+Bolivia		Jairo Quinteros	Defensa central	07/02/2001	23	bolivar-la-paz	1.8	diestro	20	0	03/06/2021	0.35
+Bolivia		Roberto Fernández	Lateral izquierdo	12/07/1999	24	baltika-kaliningrad	1.74	zurdo	32	1	26/03/2019	1
+Bolivia		Diego Medina	Lateral derecho	13/01/2002	22	club-always-ready	1.75	diestro	9	0	24/09/2022	80.05
+Bolivia		Héctor Cuellar	Lateral derecho	16/08/2000	23	club-always-ready	1.8		5	0	27/08/2023	0.6
+Bolivia		Jesús Sagredo	Lateral derecho	10/03/1994	30	bolivar-la-paz	1.8	zurdo	7	0	10/10/2020	50.05
+Bolivia		Yomar Rocha	Lateral derecho	21/06/2003	20	bolivar-la-paz	1.78	diestro	1	0	22/03/2024	0.45
+Bolivia		Boris Céspedes	Pivote	19/06/1995	28	yverdon-sport-fc	1.81	diestro	13	1	10/10/2020	0.8
+Bolivia		Pablo Vaca	Pivote	31/05/2002	22	club-always-ready	1.81	diestro	1	0	27/08/2023	0.6
+Bolivia		Gabriel Villamíl	Mediocentro	28/06/2001	22	ldu-quito	1.79	diestro	12	0	10/09/2021	0.9
+Bolivia		Leonel Justiniano	Mediocentro	02/07/1992	31	bolivar-la-paz	1.72	diestro	46	2	23/03/2017	0.4
+Bolivia		Fernando Saucedo	Mediocentro	15/03/1990	34	bolivar-la-paz	1.72	diestro	6	0	30/03/2016	0.2
+Bolivia		Robson Matheus	Mediocentro	18/05/2002	22	club-always-ready	1.74	zurdo	1	0	25/03/2024	0.1
+Bolivia		Adalid Terrazas	Mediocentro ofensivo	25/08/2000	23	club-always-ready	1.75	diestro	0	0		0.8
+Bolivia		Ramiro Vaca	Mediocentro ofensivo	01/07/1999	24	bolivar-la-paz	1.77	diestro	27	2	03/06/2017	70.05
+Bolivia		Lucas Chávez	Mediocentro ofensivo	17/04/2003	21	bolivar-la-paz	1.7		1	0	21/06/2023	0.7
+Bolivia		Miguelito	Mediocentro ofensivo	25/04/2004	20	fc-santos	1.77	zurdo	8	0	24/09/2022	0.5
+Bolivia		Jaume Cuéllar	Extremo izquierdo	23/08/2001	22	fc-barcelona-b	1.8	ambidiestro	5	0	15/06/2021	0.4
+Bolivia		Rodrigo Ramallo	Extremo izquierdo	19/10/1990	33	the-strongest-la-paz	1.78	diestro	36	7	15/08/2013	0.3
+Bolivia		Cesar Menacho	Extremo derecho	09/08/1999	24	blooming-santa-cruz	1.83	diestro	1	0		0.375
+Bolivia		Carmelo Algarañaz	Delantero centro	27/01/1996	28	bolivar-la-paz	1.78	zurdo	10	0	29/05/2016	0.7
+Bolivia		Moises Paniagua	Delantero centro	16/08/2007	16	club-always-ready	1.69		0	0		60.05
+Bolivia		Bruno Miranda	Delantero centro	10/02/1998	26	the-strongest-la-paz	1.78	diestro	16	2	29/05/2016	0.5
