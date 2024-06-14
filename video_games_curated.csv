@@ -1,0 +1,983 @@
+title,max_players,genres,publisher,review_score,sales,price,console,age_rating,year,average_length
+NBA Street Homecourt,4,Sports,EA,80,0.47,7.95,X360,T,2007,18.3166666666667
+SSX on Tour,1,Sports,EA,79,0.2,16.95,Sony PSP,E,2005,15.5
+Kung Fu Panda,4,Action,Activision,75,2.04,9.95,X360,E,2008,6.7
+Dementium: The Ward,1,Action,,72,0.15,17.95,Nintendo DS,M,2007,4.01666666666667
+Avatar: The Last Airbender,1,Action,THQ,57,0.11,17.95,Sony PSP,E,2006,4.75
+Gears of War 2,2,Action,Microsoft,93,3.9,24.95,X360,E,2008,12.5666666666667
+MX vs. ATV Untamed,1,Educational,Ubisoft,59,0.27,16.95,Sony PSP,T,2008,12
+The Sims 2: Pets,1,Simulation,EA,49,0.97,14.95,Nintendo DS,T,2006,27.7
+New Super Mario Bros.,1,Action,Nintendo,89,10.03,27.95,Nintendo DS,T,2006,10.2333333333333
+Final Fantasy II,1,Role-Playing (RPG),SquareEnix,63,0.31,17.95,Sony PSP,E,2007,29.9333333333333
+Marvel Nemesis: Rise of the Imperfects ,1,Action,EA,34,0.08,14.95,Nintendo DS,T,2005,5.03333333333333
+Call of Duty 3,2,Action,Activision,82,1.51,16.95,X360,T,2006,8.81666666666667
+Etrian Odyssey II: Heroes of Lagaard,1,Role-Playing (RPG),,82,0.07,24.95,Nintendo DS,T,2008,55.4833333333333
+Dark Messiah of Might and Magic: Elements,1,"Action,Role-Playing (RPG)",Ubisoft,52,0.13,17.95,X360,T,2008,13.2333333333333
+Devil May Cry 4,1,Action,Capcom,84,0.56,19.95,PlayStation 3,T,2008,13.35
+Call of Duty: World at War,2,Action,Activision,83,1.17,29.95,Nintendo Wii,M,2008,10.2833333333333
+Phoenix Wright: Ace Attorney - Trials and Tribu...,1,"Adventure,Simulation",Capcom,81,0.27,17.95,Nintendo DS,T,2007,22.0833333333333
+Magnetica,1,"Action,Strategy",Nintendo,68,0.09,17.95,Nintendo DS,T,2006,9.93333333333333
+Dynasty Warriors 5: Empires,2,"Action,Role-Playing (RPG),Strategy",,61,0.1,14.95,X360,T,2006,34.3166666666667
+Rockstar Games presents Table Tennis,2,Sports,Rockstar,81,0.28,9.95,X360,M,2006,6
+The Simpsons Game,2,Action,EA,71,0.39,17.95,PlayStation 3,E,2007,1.03333333333333
+The Legendary Starfy,1,"Action,Adventure",Nintendo,75,0.5,24.95,Nintendo DS,E,2008,14.25
+Pokemon Mystery Dungeon: Blue Rescue Team,1,Role-Playing (RPG),Nintendo,62,1.22,14.95,Nintendo DS,T,2005,37.4666666666667
+Rock Band,4,"Action,Simulation",,92,1.01,14.95,PlayStation 3,M,2007,19.3666666666667
+Lost in Blue,1,Role-Playing (RPG),Konami,69,0.07,24.95,Nintendo DS,T,2005,24.15
+Silent Hill: 0rigins,1,Action,Konami,78,0.22,17.95,Sony PSP,E,2007,6.16666666666667
+Pokemon Pearl,1,Role-Playing (RPG),Nintendo,85,6.77,26.95,Nintendo DS,E,2006,101.066666666667
+The Chronicles of Narnia: Prince Caspian,1,Role-Playing (RPG),Disney,54,0.19,10.95,Nintendo DS,M,2008,12.8166666666667
+LEGO Star Wars II: The Original Trilogy,2,Action,,81,0.57,14.95,X360,E,2006,17.55
+Pirates of the Caribbean: Dead Man's Chest,1,Action,,63,0.24,11.95,Nintendo DS,E,2006,2.68333333333333
+Star Wars: The Force Unleashed,2,Action,,71,1.01,14.95,Nintendo Wii,E,2008,6.13333333333333
+Shrek SuperSlam,1,Action,Activision,56,0.18,11.95,Nintendo DS,E,2005,1.21666666666667
+Sega Superstars Tennis,4,Sports,Sega,67,1.84,9.95,X360,E,2008,7.88333333333333
+Star Wars: Episode III - Revenge of the Sith,1,Action,Ubisoft,73,0.28,16.95,Nintendo DS,E,2005,5.1
+Dynasty Warriors 6,2,"Action,Strategy",,60,0.16,24.95,X360,M,2008,29.35
+FlatOut: Head On,1,"Racing / Driving,Sports",,74,0.14,9.95,Sony PSP,E,2008,21.8
+Armored Core: For Answer,1,Action,Ubisoft,62,0.05,29.95,PlayStation 3,M,2008,56.8833333333333
+Phantasy Star Universe,1,Role-Playing (RPG),Sega,64,0.09,24.95,X360,E,2006,35.1333333333333
+X-Men: Legends II - Rise of Apocalypse,1,"Action,Role-Playing (RPG)",Activision,84,0.27,17.95,Sony PSP,M,2005,22.3333333333333
+Over the Hedge,1,Adventure,Activision,71,0.26,16.95,Nintendo DS,E,2006,7.21666666666667
+Geometry Wars: Galaxies,1,Action,,79,0.12,14.95,Nintendo DS,T,2007,18.5
+Speed Racer: The Videogame,2,Racing / Driving,,69,0.34,16.95,Nintendo Wii,M,2008,12.3833333333333
+Super Princess Peach,1,Action,Nintendo,75,0.7,29.95,Nintendo DS,T,2005,11
+Spider-Man 2,1,Action,Activision,61,0.45,14.95,Nintendo DS,E,2004,13.25
+Tony Hawk's Proving Ground,1,Sports,Activision,39,0.21,13.95,Nintendo DS,M,2007,8.13333333333333
+Virtua Tennis 3,4,Sports,Sega,80,0.24,19.95,PlayStation 3,E,2007,18.1666666666667
+Call of Duty 2,4,Action,"Activision,Konami",89,1.69,17.95,X360,E,2005,9.23333333333333
+Final Fantasy XII: Revenant Wings,1,"Role-Playing (RPG),Strategy",SquareEnix,81,0.33,19.95,Nintendo DS,T,2007,38.55
+Innocent Life: A Futuristic Harvest Moon,1,"Role-Playing (RPG),Simulation,Strategy",,67,0.08,17.95,Sony PSP,E,2006,33.7333333333333
+Touch the Dead,1,Action,,56,0.2,16.95,Nintendo DS,T,2007,4.65
+Fight Night Round 3,2,"Action,Sports",EA,86,1.4,14.95,X360,E,2006,11.1833333333333
+Dragon Quest Monsters: Joker,1,Role-Playing (RPG),SquareEnix,75,0.24,14.95,Nintendo DS,T,2006,37.9666666666667
+Fantastic Four: Rise of the Silver Surfer,4,Action,2K,45,0.08,14.95,X360,E,2007,7.6
+Pokemon Ranger,1,Role-Playing (RPG),Nintendo,69,1.36,19.95,Nintendo DS,E,2006,16.55
+Wario: Master of Disguise,1,Action,Nintendo,60,0.29,14.95,Nintendo DS,E,2007,10.2833333333333
+Death Jr. II: Root of Evil,2,Action,Eidos,71,0.09,17.95,Nintendo Wii,E,2008,9.7
+The Golden Compass,1,Action,Sega,40,0.12,12.95,PlayStation 3,M,2007,8.56666666666667
+Virtua Fighter 5,2,Action,Sega,89,0.18,17.95,X360,E,2007,3.33333333333333
+Sonic and the Secret Rings,4,Action,Sega,69,1.08,16.95,Nintendo Wii,E,2007,9.65
+Fight Night Round 3,2,"Action,Simulation,Sports",EA,74,0.48,16.95,Sony PSP,T,2006,11.1833333333333
+Beautiful Katamari,1,Action,Namco,73,0.11,17.95,X360,M,2007,14.55
+Genji: Days of the Blade,1,"Action,Role-Playing (RPG)",Sony,55,0.17,14.95,PlayStation 3,T,2006,13.3333333333333
+Tom Clancy's Splinter Cell: Double Agent,1,Action,Ubisoft,85,0.67,17.95,X360,E,2006,12.4166666666667
+Nanostray 2,1,Action,,75,0.04,12.95,Nintendo DS,M,2008,3
+Ace Combat 6: Fires of Liberation,1,"Action,Simulation",Namco,80,0.58,19.95,X360,E,2007,13.45
+Kameo: Elements of Power,1,Action,Microsoft,79,0.31,11.95,X360,T,2005,10.0333333333333
+Tetris Party,4,Strategy,,75,0.16,24.95,Nintendo Wii,T,2008,2
+Ratatouille,4,Action,THQ,56,0.22,16.95,X360,T,2007,13.2
+Puyo Pop Fever,1,"Action,Strategy",Sega,76,0.04,19.95,Nintendo DS,E,2004,2.5
+Cooking Mama,1,Simulation,,67,2.9,17.95,Nintendo DS,M,2006,8.63333333333333
+Universe at War: Earth Assault,1,"Action,Strategy",Sega,66,0.07,14.95,X360,T,2008,16
+Fracture,1,Action,,63,0.13,14.95,X360,T,2008,7.9
+Crash of the Titans,2,Action,,65,0.29,17.95,X360,E,2007,7.75
+Valkyrie Profile: Lenneth,1,Role-Playing (RPG),SquareEnix,80,0.16,22.95,Sony PSP,E,2006,37.5
+Sonic Unleashed,1,"Action,Adventure",Sega,60,0.41,17.95,X360,E,2008,13.15
+Transformers: The Game,1,Action,Activision,53,0.35,17.95,Nintendo Wii,T,2007,7.23333333333333
+NBA Live 06,1,Sports,EA,80,0.42,9.95,Sony PSP,E,2005,4
+Call of Duty 4: Modern Warfare,1,Action,Activision,75,0.94,19.95,Nintendo DS,T,2007,8.01666666666667
+Secret Agent Clank,1,Action,Sony,72,0.05,23.95,Sony PSP,M,2008,7.76666666666667
+Front Mission,1,Strategy,SquareEnix,72,0.01,17.95,Nintendo DS,E,2007,20.8666666666667
+Dead Rising,1,Action,Capcom,85,1.16,16.95,X360,E,2006,19.2333333333333
+Metal Gear Ac!d,1,Strategy,Konami,75,0.34,17.95,Sony PSP,E,2004,25.3833333333333
+Need for Speed: Carbon,2,Racing / Driving,EA,67,0.47,17.95,Nintendo Wii,M,2006,13.3
+Haze,2,Action,Ubisoft,55,0.49,12.95,PlayStation 3,T,2008,7.65
+Looney Tunes: Cartoon Conductor,1,Action,Eidos,67,0.04,13.95,Nintendo DS,M,2008,4.75
+SpongeBob SquarePants: The Yellow Avenger,1,Action,THQ,67,0.31,13.95,Nintendo DS,E,2005,11.85
+Pro Evolution Soccer 2008,2,Sports,Konami,83,0.1,17.95,Nintendo Wii,T,2008,63.8
+Insecticide,1,"Action,Adventure",,55,0.04,12.95,Nintendo DS,T,2008,3.56666666666667
+Golden Axe,2,Action,Sega,45,0.15,14.95,X360,M,2007,1.18333333333333
+Tony Hawk's Project 8,2,Sports,Activision,81,0.42,16.95,X360,E,2006,17.1666666666667
+Dragon Ball: Origins,1,"Action,Adventure",Atari,78,0.08,15.95,Nintendo DS,M,2008,11.5
+Riviera: The Promised Land,1,Role-Playing (RPG),,68,0.07,17.95,Sony PSP,M,2006,24.3166666666667
+Dragon Quest Heroes: Rocket Slime,1,Action,SquareEnix,83,0.13,12.95,Nintendo DS,T,2005,15.1
+Call of Duty 4: Modern Warfare,4,Action,Activision,94,2.91,24.95,PlayStation 3,E,2007,8.01666666666667
+The Legend of Kage 2,1,Action,SquareEnix,70,0.03,14.95,Nintendo DS,E,2008,3.33333333333333
+Spider-Man: Web of Shadows,1,Action,Activision,77,0.09,15.95,Nintendo DS,E,2008,12.5666666666667
+LEGO Star Wars: The Complete Saga,2,Action,,80,3.03,17.95,Nintendo Wii,M,2007,24.8833333333333
+Elite Beat Agents,1,Action,Nintendo,87,0.27,9.95,Nintendo DS,M,2006,10.2666666666667
+Burnout Legends,1,"Action,Racing / Driving",EA,86,0.68,14.95,Sony PSP,T,2005,12.8333333333333
+Madden NFL 06,1,Sports,EA,75,0.75,7.95,Sony PSP,E,2005,3.75
+Puzzle Quest: Challenge of the Warlords,1,"Role-Playing (RPG),Strategy",,82,0.3,17.95,Nintendo DS,E,2007,41.1666666666667
+Two Worlds,1,"Action,Role-Playing (RPG)",,50,0.43,14.95,X360,M,2007,32.7
+Silent Hill: Homecoming,1,Action,Konami,71,0.16,17.95,PlayStation 3,E,2008,10.1333333333333
+Order Up!,1,"Action,Simulation",,76,0.18,17.95,Nintendo Wii,T,2008,6.63333333333333
+Tomb Raider: Underworld,1,Action,Eidos,75,0.44,17.95,PlayStation 3,T,2008,11.5166666666667
+NHL 08 ,1,Sports,EA,85,0.22,9.95,X360,E,2007,17.5
+Nanostray,1,Action,THQ,71,0.06,17.95,Nintendo DS,E,2005,1.43333333333333
+Guitar Hero: Aerosmith,2,"Action,Simulation",Activision,70,0.91,9.95,X360,E,2008,11.3
+Touch Detective,1,Adventure,,60,0.07,14.95,Nintendo DS,T,2006,6.9
+Orcs & Elves,1,"Action,Role-Playing (RPG)",EA,68,0.03,14.95,Nintendo DS,T,2007,4.88333333333333
+Pokemon: Platinum Version,1,"Adventure,Role-Playing (RPG)",Nintendo,83,2.86,27.95,Nintendo DS,T,2008,72.2166666666667
+Dynasty Warriors,1,"Action,Adventure,Role-Playing (RPG)",,62,0.2,14.95,Sony PSP,E,2004,8.88333333333333
+Brave Story: New Traveler,1,Role-Playing (RPG),,76,0.11,17.95,Sony PSP,T,2007,26.1666666666667
+Call of Duty: Roads to Victory,1,Action,Activision,64,0.51,24.95,Sony PSP,E,2007,5.75
+The BIGS,4,"Action,Simulation,Sports",2K,66,0.36,17.95,Nintendo Wii,M,2007,16.8166666666667
+Fuzion Frenzy 2,4,"Action,Sports",Microsoft,49,0.12,14.95,X360,T,2006,4.36666666666667
+Ridge Racer DS,1,Racing / Driving,Namco,63,0.15,9.95,Nintendo DS,E,2004,2.23333333333333
+Harry Potter and the Order of the Phoenix,1,Action,EA,67,0.17,17.95,PlayStation 3,E,2007,12.3833333333333
+NBA 2K6 ,1,Sports,2K,81,0.22,4.95,X360,E,2005,0.616666666666667
+Sonic Unleashed,1,"Action,Adventure",Sega,54,0.42,17.95,PlayStation 3,T,2008,13.15
+Marvel Ultimate Alliance,4,"Action,Role-Playing (RPG)",Activision,82,2.42,14.95,X360,T,2006,15.25
+Mega Man Maverick Hunter X,1,Action,Capcom,79,0.25,17.95,Sony PSP,E,2005,6.76666666666667
+Iron Man,1,Action,Sega,44,0.46,16.95,Sony PSP,E,2008,5.8
+Armored Core 4,2,Action,Sega,65,0.19,17.95,X360,E,2007,20.6
+Stuntman: Ignition,4,"Action,Racing / Driving",THQ,76,0.16,16.95,PlayStation 3,E,2007,8.2
+Bully: Scholarship Edition,1,"Action,Adventure",Rockstar,80,0.53,17.95,X360,T,2008,18.8
+Resident Evil 4,1,Action,Capcom,91,1.24,16.95,Nintendo Wii,T,2007,18.7666666666667
+Code Lyoko,1,"Action,Adventure",,63,0.03,11.95,Nintendo DS,T,2007,7.73333333333333
+Battlefield: Bad Company,1,Action,EA,84,0.76,17.95,PlayStation 3,T,2008,8.26666666666667
+Field Commander,2,Strategy,"Sony,Ubisoft",77,0.16,14.95,Sony PSP,T,2006,13.8833333333333
+Daxter,1,Action,Sony,85,2.38,14.95,Sony PSP,T,2006,9.06666666666667
+Tony Hawk's Underground 2: Remix,1,Sports,Activision,83,0.49,14.95,Sony PSP,T,2005,23.45
+Sonic the Hedgehog,2,Action,Sega,46,0.41,14.95,X360,T,2007,3.53333333333333
+Crush,1,Action,Sega,83,0.08,16.95,Sony PSP,E,2007,6.88333333333333
+Ninjatown,1,Strategy,,80,0.12,19.95,Nintendo DS,T,2008,14.6833333333333
+Pure,1,"Racing / Driving,Sports",Disney,85,1.43,12.95,X360,T,2008,13.6666666666667
+Deep Labyrinth,1,Role-Playing (RPG),,57,0.06,10.95,Nintendo DS,T,2006,13.5666666666667
+Rumble Roses XX,4,"Action,Sports",Konami,62,0.06,17.95,X360,E,2006,119.25
+WarioWare: Smooth Moves,6,"Action,Racing / Driving,Sports",Nintendo,83,0.9,39.95,Nintendo Wii,T,2006,4.46666666666667
+Myst,1,Adventure,Midway,43,0.06,24.95,Nintendo DS,E,2007,7.86666666666667
+Grand Theft Auto IV,1,"Action,Racing / Driving",Rockstar,98,5.76,24.95,X360,E,2008,38.8833333333333
+SpongeBob SquarePants: The Yellow Avenger,1,Action,THQ,48,0.49,12.95,Sony PSP,T,2006,11.85
+Final Fantasy Tactics A2: Grimoire of the Rift,1,"Role-Playing (RPG),Strategy",SquareEnix,80,0.36,17.95,Nintendo DS,E,2007,79.4666666666667
+Project Sylpheed: Arc of Deception,1,Action,"Microsoft,SquareEnix",64,0.09,14.95,X360,T,2006,7.65
+007: From Russia with Love,1,"Action,Racing / Driving",EA,61,0.07,17.95,Sony PSP,T,2006,6.38333333333333
+Harvey Birdman: Attorney at Law,1,Adventure,Capcom,62,0.05,14.95,Sony PSP,M,2008,4.13333333333333
+X-Men: The Official Game,1,Action,Activision,52,0.14,14.95,X360,M,2006,11.8833333333333
+OutRun 2006: Coast 2 Coast,1,Racing / Driving,Sega,82,0.03,17.95,Sony PSP,E,2006,5.18333333333333
+Contact,1,"Adventure,Role-Playing (RPG)",,73,0.07,14.95,Nintendo DS,E,2006,15.6
+NCAA Football 08,2,Sports,EA,77,0.36,9.95,PlayStation 3,T,2007,12
+Avalon Code,1,"Action,Adventure,Role-Playing (RPG)",,71,0.1,27.95,Nintendo DS,M,2008,31.5
+LittleBigPlanet,4,Action,Sony,95,2.46,24.95,PlayStation 3,T,2008,13.7
+The Incredible Hulk,1,Action,Sega,55,0.22,17.95,X360,E,2008,5.21666666666667
+Spider-Man 3,1,Action,Activision,60,0.27,17.95,PlayStation 3,E,2007,10.8333333333333
+Kirby Super Star Ultra,1,Action,Nintendo,76,1.6,24.95,Nintendo DS,M,2008,8.76666666666667
+WWE Smackdown vs. Raw 2008,4,Sports,THQ,71,0.96,12.95,X360,T,2007,25.3166666666667
+Worms: Open Warfare 2,1,"Action,Strategy",THQ,81,0.07,17.95,Nintendo DS,E,2007,9.11666666666667
+Super Paper Mario,1,"Action,Role-Playing (RPG)",Nintendo,85,1.5,29.95,Nintendo Wii,E,2007,22.8
+Capcom Classics Collection Remixed,1,Action,Capcom,72,0.28,17.95,Sony PSP,E,2005,35.6666666666667
+Thrillville: Off the Rails,4,"Simulation,Strategy",,70,0.37,16.95,Nintendo Wii,E,2007,12.15
+Sonic Rush,1,Action,Sega,82,1.2,14.95,Nintendo DS,E,2005,7.91666666666667
+Rock Band 2,4,"Action,Simulation",,92,1.85,19.95,X360,E,2008,62.55
+The Elder Scrolls IV: Oblivion,1,"Action,Role-Playing (RPG)",Ubisoft,93,1.2,17.95,PlayStation 3,T,2007,101.083333333333
+Tiger Woods PGA Tour 07,4,Sports,EA,81,0.32,14.95,PlayStation 3,E,2006,10
+Earth Defense Force 2017,2,Action,,69,0.03,17.95,X360,T,2006,22.4666666666667
+Spider-Man 3,1,Action,Ubisoft,58,0.01,6.95,Sony PSP,M,2006,10.8333333333333
+Surf's Up,1,"Racing / Driving,Sports",Ubisoft,56,0.28,14.95,Nintendo DS,T,2007,1.28333333333333
+Tom Clancy's Splinter Cell: Double Agent,2,Action,Ubisoft,61,0.11,17.95,Nintendo Wii,T,2006,12.4166666666667
+Call of Duty 3,1,Action,Activision,69,1.15,19.95,Nintendo Wii,E,2006,8.81666666666667
+Final Fantasy Fables: Chocobo's Dungeon,1,"Action,Role-Playing (RPG)",SquareEnix,76,0.09,17.95,Nintendo Wii,M,2008,28.1666666666667
+Animal Crossing: Wild World,1,Simulation,Nintendo,86,2.6,24.95,Nintendo DS,T,2005,168.966666666667
+ObsCure: The Aftermath,1,Action,,53,0.1,16.95,Nintendo Wii,T,2008,7.63333333333333
+Def Jam: Icon,2,Action,EA,69,0.32,17.95,X360,M,2007,8
+BlackSite: Area 51,1,Action,Midway,56,0.07,17.95,PlayStation 3,E,2007,5.81666666666667
+From the Abyss,1,"Action,Role-Playing (RPG)",,60,0.05,19.95,Nintendo DS,T,2008,7.38333333333333
+Virtua Fighter 5,2,Action,Sega,85,0.3,14.95,PlayStation 3,M,2007,3.33333333333333
+Madagascar: Escape 2 Africa,4,Action,Activision,58,0.1,24.95,PlayStation 3,M,2008,6.5
+LEGO Batman: The Videogame,1,"Action,Racing / Driving",,72,1.39,17.95,Nintendo DS,T,2008,17.3333333333333
+Ridge Racer 7,2,Racing / Driving,"Namco,Sony",78,0.23,19.95,PlayStation 3,E,2006,21.25
+Tomb Raider: Underworld,1,Action,Eidos,70,0.14,17.95,Nintendo Wii,T,2008,11.5166666666667
+Surf's Up,2,Sports,Ubisoft,64,0.16,16.95,Nintendo Wii,T,2007,1.28333333333333
+Worms: Open Warfare,1,"Action,Strategy",THQ,70,0.12,17.95,Sony PSP,T,2006,9.11666666666667
+Eragon,1,"Action,Role-Playing (RPG)",,63,0.14,16.95,Nintendo DS,E,2006,8.83333333333333
+Pro Evolution Soccer 2008,7,Sports,Konami,74,0.04,17.95,PlayStation 3,E,2007,63.8
+Blade Dancer: Lineage of Light,1,Role-Playing (RPG),,60,0.06,16.95,Sony PSP,E,2006,29.2833333333333
+DK: Jungle Climber,1,"Action,Strategy",Nintendo,77,0.26,24.95,Nintendo DS,T,2007,6.43333333333333
+Syphon Filter: Dark Mirror,1,Action,Sony,87,0.24,12.95,Sony PSP,M,2006,8.46666666666667
+Electroplankton,1,Simulation,Nintendo,71,0.01,29.95,Nintendo DS,T,2005,0.433333333333333
+Spectrobes: Beyond the Portals,1,"Action,Role-Playing (RPG)",Disney,70,0.27,11.95,Nintendo DS,M,2008,30.25
+Enemy Territory: Quake Wars,1,Action,Activision,69,0.26,14.95,X360,T,2008,9.91666666666667
+Kingdom Under Fire: Circle of Doom,1,"Action,Role-Playing (RPG)",Microsoft,55,0.15,14.95,X360,E,2007,107.833333333333
+Folklore,1,"Action,Role-Playing (RPG)",Sony,75,0.18,24.95,PlayStation 3,E,2007,20.7833333333333
+Peter Jackson's King Kong: The Official Game of...,2,Action,Ubisoft,80,0.32,14.95,X360,T,2005,6.96666666666667
+Bee Movie Game,2,Action,Activision,71,0.15,12.95,X360,T,2007,5.76666666666667
+Spyro: Shadow Legacy,1,Role-Playing (RPG),,50,0.15,17.95,Nintendo DS,E,2005,4
+Super Dodgeball Brawlers,1,"Action,Sports",,65,0.12,19.95,Nintendo DS,T,2008,0.683333333333333
+Saints Row,1,"Action,Racing / Driving",THQ,81,1.23,14.95,X360,T,2006,24.6833333333333
+Ridge Racer 6,2,Racing / Driving,"EA,Namco",74,0.1,14.95,X360,E,2005,8
+Dance Dance Revolution Hottest Party,4,Action,Konami,73,1.45,17.95,Nintendo Wii,T,2007,8
+Astonishia Story,1,"Role-Playing (RPG),Strategy",Ubisoft,48,0.03,16.95,Sony PSP,T,2006,19.05
+Rune Factory: A Fantasy Harvest Moon,1,"Role-Playing (RPG),Simulation",,78,0.34,24.95,Nintendo DS,T,2006,66.1333333333333
+Brain Agey: More Training in Minutes a Day!,1,Action,Nintendo,77,3.65,17.95,Nintendo DS,E,2005,13.25
+Mega Man Battle Network 5: Double Team DS,1,"Action,Role-Playing (RPG)",Capcom,68,0.06,17.95,Nintendo DS,E,2005,36.2333333333333
+The Legend of Heroes III: Song of the Ocean,1,Role-Playing (RPG),Namco,58,0.03,17.95,Sony PSP,T,2007,49.8833333333333
+DiRT,1,"Racing / Driving,Simulation,Sports",,83,0.39,17.95,X360,E,2007,16.0333333333333
+Rock Band,4,"Action,Simulation",,92,2.02,14.95,X360,E,2007,19.3666666666667
+WarTech: Senko no Ronde,2,Action,Ubisoft,60,0.03,12.95,X360,T,2006,25.8833333333333
+Mario Kart Wii,4,Racing / Driving,Nintendo,82,12.39,29.95,Nintendo Wii,T,2008,11.4
+Tokobot,1,Strategy,,72,0.06,17.95,Sony PSP,T,2005,9.33333333333333
+Mega Man Powered Up,1,Action,Capcom,82,0.11,16.95,Sony PSP,E,2006,5.63333333333333
+Pro Evolution Soccer 2008,4,Sports,Konami,76,0.08,14.95,X360,M,2007,63.8
+The Spiderwick Chronicles,2,"Action,Adventure",,59,0.07,14.95,X360,E,2008,5.33333333333333
+Conan,1,"Action,Adventure",THQ,69,0.14,17.95,PlayStation 3,E,2007,7.18333333333333
+Call of Juarez,1,Action,Ubisoft,71,0.15,14.95,X360,E,2007,8.63333333333333
+Sea Monsters: A Prehistoric Adventure,1,"Action,Educational",,43,0.01,13.95,Nintendo DS,T,2007,5
+Neopets Puzzle Adventure,1,"Adventure,Role-Playing (RPG),Strategy",Capcom,70,0.25,17.95,Nintendo DS,T,2008,3
+Call of Duty: World at War,4,Action,Activision,84,4.58,29.95,X360,E,2008,10.2833333333333
+CrossworDS,1,"Educational,Strategy",,67,0.53,17.95,Nintendo DS,T,2007,17.2
+Chicken Hunter,1,Action,,39,0.02,17.95,Nintendo DS,T,2008,1.5
+Call of Duty: World at War,4,Action,Activision,85,2.53,29.95,PlayStation 3,T,2008,10.2833333333333
+Shrek the Third,2,Action,Activision,57,0.26,16.95,Nintendo Wii,E,2007,5.11666666666667
+Diddy Kong Racing DS,1,"Racing / Driving,Sports",Nintendo,63,1.16,24.95,Nintendo DS,T,2007,14.65
+Spider-Man: Friend or Foe,2,Action,Activision,60,0.27,17.95,X360,E,2007,11.1166666666667
+Clubhouse Games,1,Strategy,Nintendo,83,0.61,17.95,Nintendo DS,E,2005,20
+Gurumin: A Monstrous Adventure,1,Action,,78,0.01,13.95,Sony PSP,T,2006,11.5166666666667
+Dungeon Siege: Throne of Agony,1,Role-Playing (RPG),2K,74,0.13,24.95,Sony PSP,E,2006,17.6
+Kirby: Canvas Curse,1,Action,Nintendo,86,0.37,17.95,Nintendo DS,T,2005,7.4
+Castlevania: Portrait of Ruin,1,Action,Konami,85,0.3,17.95,Nintendo DS,M,2006,13.1333333333333
+Need for Speed: Undercover,4,Racing / Driving,EA,54,0.27,27.95,Nintendo Wii,E,2008,12.1833333333333
+Dark Sector,1,Action,,72,0.21,13.95,X360,M,2008,9.16666666666667
+Wario Land: Shake It!,1,Action,Nintendo,78,0.59,19.95,Nintendo Wii,T,2008,9.63333333333333
+Professor Layton and the Curious Village,1,"Adventure,Educational,Strategy",Nintendo,85,1.26,23.95,Nintendo DS,E,2007,14.4166666666667
+Marvel Ultimate Alliance,4,"Action,Role-Playing (RPG)",Activision,73,0.38,17.95,Nintendo Wii,M,2006,15.25
+Grand Theft Auto: Vice City Stories,1,"Action,Racing / Driving",Rockstar,86,1.72,17.95,Sony PSP,E,2006,21.0333333333333
+Star Wars: Lethal Alliance,1,Action,Ubisoft,61,0.12,17.95,Sony PSP,T,2006,5.66666666666667
+Looney Tunes: Acme Arsenal,1,Action,,27,0.19,14.95,Nintendo Wii,T,2007,3.83333333333333
+Dragoneer's Aria,1,Role-Playing (RPG),,56,0.02,24.95,Sony PSP,E,2007,37.6333333333333
+Fantastic Four: Rise of the Silver Surfer,1,Action,2K,35,0.04,14.95,Nintendo DS,E,2007,7.6
+Madden NFL 08,1,Sports,EA,75,0.64,9.95,Sony PSP,E,2007,106
+Ben 10: Protector of the Earth,1,Action,,60,0.19,16.95,Sony PSP,T,2007,5.08333333333333
+Final Fantasy III,1,Role-Playing (RPG),SquareEnix,77,0.86,17.95,Nintendo DS,E,2006,51.0666666666667
+Thrillville: Off the Rails,4,"Simulation,Strategy",,73,0.12,17.95,X360,E,2007,12.15
+The BIGS,4,"Action,Simulation,Sports",2K,80,0.16,22.95,PlayStation 3,T,2007,16.8166666666667
+Far Cry 2,1,Action,Ubisoft,85,0.73,19.95,X360,T,2008,26
+The Golden Compass,1,Action,Sega,28,0.1,14.95,Sony PSP,E,2007,8.56666666666667
+Shrek the Third,1,Action,Activision,57,0.09,22.95,Sony PSP,T,2007,5.11666666666667
+Deal or No Deal,1,Strategy,,20,1.1,11.95,Nintendo DS,E,2007,0.983333333333333
+The Godfather: The Game,1,Action,EA,77,0.2,17.95,X360,T,2006,21.15
+Beowulf: The Game,1,Action,Ubisoft,51,0.12,12.95,PlayStation 3,T,2007,10.85
+LocoRoco 2,1,"Action,Strategy",Sony,85,0.17,11.95,Sony PSP,M,2008,17.2666666666667
+Drawn to Life,1,Action,THQ,73,0.75,17.95,Nintendo DS,T,2007,13.7166666666667
+Madden NFL 09,4,Sports,EA,85,1.66,14.95,PlayStation 3,E,2008,15.8833333333333
+Mega Man Star Force: Dragon,1,"Action,Role-Playing (RPG)",Capcom,60,0.41,27.95,Nintendo DS,T,2007,20.8166666666667
+The BIGS,4,"Action,Simulation,Sports",2K,79,0.19,12.95,X360,M,2007,16.8166666666667
+BWii: Battalion Wars 2,1,"Action,Simulation,Strategy",Nintendo,75,0.21,14.95,Nintendo Wii,T,2007,10.0333333333333
+Transformers: The Game,1,Action,Activision,54,0.32,17.95,PlayStation 3,E,2007,7.23333333333333
+Looney Tunes: Acme Arsenal,4,Action,,40,0.07,17.95,X360,M,2007,3.83333333333333
+Legendary,1,Action,Atari,47,0.07,17.95,X360,T,2008,5.85
+Devil May Cry 4,1,Action,Capcom,84,0.8,17.95,X360,T,2008,13.35
+Juiced 2: Hot Import Nights,2,Racing / Driving,THQ,68,0.23,14.95,X360,E,2007,16.45
+Harry Potter and the Order of the Phoenix,1,Action,EA,52,0.1,16.95,Sony PSP,E,2007,12.3833333333333
+Alien Syndrome,4,Action,Sega,48,0.06,12.95,Nintendo Wii,E,2007,2.78333333333333
+Fantastic Four: Rise of the Silver Surfer,4,Action,2K,39,0.04,12.95,Nintendo Wii,E,2007,7.6
+Bomberman,1,Strategy,Ubisoft,75,0.11,17.95,Nintendo DS,E,2005,3.33333333333333
+Marvel Ultimate Alliance,1,"Action,Role-Playing (RPG)",Activision,81,0.34,22.95,Sony PSP,E,2006,15.25
+Forza Motorsport 2,2,Racing / Driving,Microsoft,90,2.48,12.95,X360,T,2007,59.55
+Command & Conquer 3: Tiberium Wars,1,Strategy,EA,82,0.35,24.95,X360,T,2007,26.3
+God of War: Chains of Olympus,1,Action,Sony,91,1.54,17.95,Sony PSP,T,2008,6.03333333333333
+Medal of Honor: Heroes 2,1,Action,EA,73,0.34,19.95,Nintendo Wii,E,2007,4.96666666666667
+Avatar: The Last Airbender,1,Action,THQ,64,0.3,17.95,Nintendo DS,E,2006,4.75
+TNA iMPACT!,4,Sports,Midway,64,0.21,12.95,PlayStation 3,M,2008,15.8833333333333
+Contra 4,1,Action,Konami,83,0.27,17.95,Nintendo DS,T,2007,7.36666666666667
+Tony Hawk's Project 8,2,Sports,Activision,68,0.42,17.95,Sony PSP,M,2006,17.1666666666667
+Game Party,4,Action,Midway,25,1.49,14.95,Nintendo Wii,T,2007,2
+Need for Speed: Undercover,1,Racing / Driving,EA,59,0.59,17.95,PlayStation 3,E,2008,12.1833333333333
+The Club,4,Action,Sega,76,0.13,14.95,X360,T,2008,6.13333333333333
+Nintendogs,1,Simulation,Nintendo,83,9.72,26.95,Nintendo DS,E,2005,39.3833333333333
+Fable II,1,Role-Playing (RPG),Microsoft,89,2.55,17.95,X360,E,2008,25.15
+Zendoku,1,"Role-Playing (RPG),Strategy",Eidos,68,0.04,16.95,Nintendo DS,E,2007,4
+TMNT,1,Action,Ubisoft,60,0.16,17.95,Nintendo Wii,E,2007,4.91666666666667
+Open Season,1,Action,Ubisoft,72,0.13,17.95,Nintendo DS,T,2006,5.46666666666667
+Beowulf: The Game,1,Action,Ubisoft,51,0.36,12.95,X360,E,2007,10.85
+Midnight Club: Los Angeles,1,Racing / Driving,Rockstar,81,1.15,22.95,X360,E,2008,30.6666666666667
+Phoenix Wright: Ace Attorney,1,"Adventure,Simulation",Capcom,81,0.38,24.95,Nintendo DS,E,2005,19.6833333333333
+Tao's Adventure: Curse of the Demon Seal,1,Role-Playing (RPG),Konami,50,0.04,14.95,Nintendo DS,E,2006,45
+WarioWare Touched!,2,"Action,Racing / Driving,Sports",Nintendo,81,0.54,22.95,Nintendo DS,E,2004,4.56666666666667
+Metal Slug 7,1,Action,,70,0.09,17.95,Nintendo DS,M,2008,1.26666666666667
+Need for Speed: Carbon - Own the City,1,Racing / Driving,EA,73,0.93,16.95,Sony PSP,E,2006,18.0333333333333
+Rengoku: The Tower of Purgatory,1,"Action,Role-Playing (RPG)",Konami,43,0.11,12.95,Sony PSP,E,2005,4.71666666666667
+Speed Racer: The Videogame,1,Racing / Driving,,75,0.28,17.95,Nintendo DS,M,2008,12.3833333333333
+Tom Clancy's Rainbow Six: Vegas,2,Action,Ubisoft,88,1.19,14.95,X360,E,2006,9.9
+Planet Puzzle League,1,Strategy,Nintendo,86,0.16,17.95,Nintendo DS,E,2007,0.316666666666667
+SEGA Rally Revo,2,"Racing / Driving,Simulation",Sega,75,0.07,16.95,PlayStation 3,T,2007,34
+Guitar Hero III: Legends of Rock,2,"Action,Simulation",Activision,85,3.28,12.95,X360,T,2007,15.1833333333333
+Resistance: Fall of Man,4,Action,Sony,86,1.61,19.95,PlayStation 3,E,2006,12.2
+Raiden IV,2,Action,,63,0.09,32.95,X360,T,2008,0.833333333333333
+Dead Space,1,Action,EA,88,0.96,17.95,PlayStation 3,M,2008,12.7333333333333
+Lumines: Puzzle Fusion,1,Strategy,Ubisoft,89,0.56,14.95,Sony PSP,E,2004,10.1
+NHL 08,7,Sports,EA,86,0.17,9.95,PlayStation 3,T,2007,17.5
+Tenchu: Dark Secret,1,Action,Nintendo,37,0.02,14.95,Nintendo DS,E,2006,7.1
+Mario Party 8,4,"Action,Strategy",Nintendo,62,3.84,39.95,Nintendo Wii,T,2007,6.2
+AC/DC Live: Rock Band - Track Pack,1,"Action,Simulation",,60,0.19,14.95,PlayStation 3,E,2008,3.63333333333333
+Rock Band 2,1,"Action,Simulation",,91,1.11,24.95,PlayStation 3,E,2008,62.55
+Ninja Reflex,1,Action,EA,54,0.08,12.95,Nintendo DS,T,2008,3.83333333333333
+The Simpsons Game,2,Action,EA,64,0.47,17.95,Nintendo Wii,T,2007,1.03333333333333
+Beijing 2008,4,Sports,Sega,60,0.15,14.95,X360,T,2008,5.5
+Frontlines: Fuel of War,1,Action,THQ,75,0.35,14.95,X360,M,2008,5.85
+Halo 3,4,Action,Microsoft,94,8.03,24.95,X360,E,2007,10.35
+Ultimate Mortal Kombat 3,1,Action,Midway,73,0.05,23.95,Nintendo DS,E,2007,3.85
+300: March to Glory,1,Action,Eidos,55,0.26,14.95,Sony PSP,E,2007,7.4
+Ferrari Challenge Trofeo Pirelli,1,Racing / Driving,,71,0.15,17.95,PlayStation 3,E,2008,32
+Need for Speed: Carbon - Own the City,1,"Action,Racing / Driving",EA,70,0.19,14.95,Nintendo DS,T,2006,18.0333333333333
+The Orange Box,1,Action,,96,1.06,17.95,X360,E,2007,34.0166666666667
+Iron Man,1,Action,Sega,45,0.28,17.95,X360,M,2008,5.8
+LEGO Indiana Jones: The Original Adventures,2,Action,,77,0.38,17.95,PlayStation 3,E,2008,15.1333333333333
+Ninja Reflex,4,Action,EA,49,0.09,14.95,Nintendo Wii,E,2008,3.83333333333333
+Soul Bubbles,1,Strategy,Eidos,78,0.05,14.95,Nintendo DS,T,2008,8.81666666666667
+Iron Man,1,Action,Sega,56,0.33,14.95,Nintendo DS,M,2008,5.8
+Super Mario Galaxy,2,Action,Nintendo,97,4.94,39.95,Nintendo Wii,E,2007,24.8333333333333
+Guitar Hero: World Tour,4,"Action,Simulation",Activision,84,1.04,17.95,PlayStation 3,E,2008,15.95
+Ratchet & Clank Future: Tools of Destruction,1,Action,Sony,89,0.86,22.95,PlayStation 3,E,2007,16.8666666666667
+Ford Racing 3,1,"Action,Racing / Driving",,49,0.1,14.95,Nintendo DS,E,2005,7.1
+LocoRoco,1,"Action,Strategy",Sony,83,0.13,17.95,Sony PSP,T,2006,8.16666666666667
+Assassin's Creed,1,Action,Ubisoft,81,1.77,17.95,PlayStation 3,T,2007,18.75
+Mortal Kombat: Unchained,2,Action,Midway,70,0.67,17.95,Sony PSP,E,2006,13.55
+Monster Hunter Freedom,1,"Action,Strategy",Capcom,71,0.25,12.95,Sony PSP,E,2006,279.733333333333
+Rayman Raving Rabbids,4,Action,Ubisoft,67,0.17,16.95,X360,M,2007,6.7
+Secret Files: Tunguska,1,Adventure,,71,0.03,17.95,Nintendo DS,M,2008,10.0833333333333
+Viva Pi$?ata: Party Animals,4,Racing / Driving,Microsoft,56,0.17,14.95,X360,T,2007,8.88333333333333
+Ratatouille,1,Action,THQ,62,0.43,19.95,Nintendo Wii,T,2007,13.2
+Coded Arms,1,Action,Konami,59,0.3,12.95,Sony PSP,M,2005,7.06666666666667
+Conflict: Denied Ops,4,Action,Eidos,51,0.05,17.95,PlayStation 3,E,2008,6.38333333333333
+Ben 10: Protector of the Earth,1,Action,,63,0.57,16.95,Nintendo Wii,T,2007,5.08333333333333
+Assassin's Creed: Altar's Chronicles,1,Action,Ubisoft,58,0.03,11.95,Nintendo DS,T,2008,5.06666666666667
+F.E.A.R.: First Encounter Assault Recon,1,Action,,72,0.18,17.95,PlayStation 3,T,2007,9.4
+Dance Dance Revolution Universe 2,4,Action,Konami,65,0.48,19.95,X360,T,2007,8
+Brain Age: Train Your Brain in Minutes a Day!,1,Action,Nintendo,77,5.07,17.95,Nintendo DS,M,2005,0.95
+Pinball Hall of Fame: The Williams Collection,1,Simulation,,82,0.41,17.95,Nintendo Wii,T,2008,29.25
+Need for Speed: Undercover,1,Racing / Driving,EA,64,0.66,17.95,X360,E,2008,12.1833333333333
+Bleach: The Blade of Fate,1,Action,Sega,83,0.31,17.95,Nintendo DS,E,2007,18.6166666666667
+Guitar Hero: World Tour,4,"Action,Simulation",Activision,85,1.78,16.95,X360,T,2008,15.95
+Metroid Prime 3: Corruption,1,Action,Nintendo,90,0.91,19.95,Nintendo Wii,T,2007,15.9833333333333
+The Darkness,1,Action,2K,82,0.36,14.95,X360,M,2007,10.9
+7 Wonders of the Ancient World,1,Strategy,,51,0.08,17.95,Sony PSP,E,2007,7.48333333333333
+All-Pro Football 2K8,6,Sports,2K,73,0.14,9.95,PlayStation 3,T,2007,12
+Madden NFL 06,2,Sports,EA,74,0.62,4.95,X360,E,2005,3.75
+Hitman: Blood Money,1,Action,Eidos,82,0.29,22.95,X360,E,2006,14.0666666666667
+Dragon Quest Swords: The Masked Queen and the T...,1,Action,SquareEnix,65,0.15,16.95,Nintendo Wii,T,2007,12.0166666666667
+Supreme Commander,1,Strategy,,56,0.04,17.95,X360,T,2008,24.9
+The Incredible Hulk,1,Action,Sega,46,0.29,16.95,Nintendo Wii,T,2008,5.21666666666667
+Harvest Moon: Tree of Tranquility,1,"Role-Playing (RPG),Simulation",,65,0.62,34.95,Nintendo Wii,M,2008,53.3833333333333
+Boom Blox,4,"Action,Strategy",EA,85,0.72,24.95,Nintendo Wii,T,2008,6.4
+Coded Arms: Contagion,1,Action,Konami,56,0.06,14.95,Sony PSP,E,2007,9.85
+Saints Row 2,1,"Action,Racing / Driving",THQ,81,1.39,17.95,X360,E,2008,28.1
+Crash of the Titans,2,Action,,69,0.42,17.95,Nintendo Wii,E,2007,7.75
+Untold Legends: Brotherhood of the Blade,1,"Action,Role-Playing (RPG)","Activision,Sony",68,0.56,12.95,Sony PSP,M,2005,21
+Conan,1,"Action,Adventure",THQ,69,0.14,14.95,X360,E,2007,7.18333333333333
+Retro Game Challenge,1,"Action,Racing / Driving,Role-Playing (RPG)",Namco,77,0.05,17.95,Nintendo DS,T,2007,11.7166666666667
+NBA Street Homecourt,4,Sports,EA,81,0.11,14.95,PlayStation 3,E,2007,18.3166666666667
+Dragon Ball Z: Burst Limit,2,Action,"Atari,Namco",72,0.24,17.95,X360,E,2008,8.05
+Monster House,1,Action,THQ,62,0.15,14.95,Nintendo DS,M,2006,6.66666666666667
+NHL 2K6 ,1,Sports,2K,75,0.1,5.95,X360,T,2005,2.5
+WWE Smackdown vs. Raw 2008,4,Sports,THQ,59,0.39,12.95,Nintendo Wii,M,2007,25.3166666666667
+Zoids Assault,1,"Role-Playing (RPG),Strategy",,46,0.07,17.95,X360,M,2007,12.05
+Digimon World DS,1,Role-Playing (RPG),Namco,49,0.08,27.95,Nintendo DS,E,2006,30.65
+Enemy Territory: Quake Wars,1,Action,Activision,60,0.24,16.95,PlayStation 3,T,2008,9.91666666666667
+Chicken Shoot,2,Action,,27,0.26,12.95,Nintendo Wii,E,2007,0.616666666666667
+Alex Rider: Stormbreaker,1,"Action,Adventure",THQ,48,0.05,12.95,Nintendo DS,M,2006,6.5
+Tony Hawk's Proving Ground,2,Sports,Activision,72,0.51,16.95,X360,T,2007,8.13333333333333
+Burnout Paradise,1,"Action,Racing / Driving",EA,87,1.01,17.95,PlayStation 3,T,2008,27.15
+Test Drive Unlimited,1,Racing / Driving,Atari,80,0.08,17.95,Sony PSP,M,2007,53.4
+Big Brain Academy,1,Action,Nintendo,74,1.77,16.95,Nintendo DS,E,2005,9.16666666666667
+Cooking Mama: Cook Off,2,Simulation,,61,1.38,14.95,Nintendo Wii,M,2007,3.4
+NBA 2K7 ,1,Sports,2K,84,0.56,4.95,X360,E,2006,8.18333333333333
+Vampire Rain,1,Action,,30,0.04,24.95,PlayStation 3,E,2008,10.8833333333333
+Metal Gear Solid: Digital Graphic Novel,1,Adventure,Konami,78,0.02,17.95,Sony PSP,T,2006,3.18333333333333
+Samurai Warriors 2: Empires,2,"Action,Role-Playing (RPG),Strategy",,53,0.02,19.95,X360,E,2007,12.75
+NBA LIVE 06 ,1,Sports,EA,64,0.29,4.95,X360,E,2005,4
+Surf's Up,4,Sports,Ubisoft,61,0.09,17.95,X360,E,2007,1.28333333333333
+The Elder Scrolls IV: Shivering Isles,1,"Action,Role-Playing (RPG)",,86,0.18,24.95,X360,E,2007,21.8
+SEGA Rally Revo,1,"Racing / Driving,Simulation",Sega,74,0.03,16.95,Sony PSP,T,2007,34
+Command & Conquer: Red Alert 3,1,Strategy,EA,77,0.16,14.95,X360,T,2008,14.7
+Darkstalkers Chronicle: The Chaos Tower,1,Action,Capcom,74,0.14,14.95,Sony PSP,E,2004,1.63333333333333
+Mortal Kombat vs. DC Universe,2,Action,Midway,76,1.13,24.95,PlayStation 3,E,2008,4.73333333333333
+NBA 2K8,7,Sports,2K,81,0.5,9.95,PlayStation 3,M,2007,4
+MotorStorm,1,"Action,Racing / Driving,Sports",Sony,82,1.58,16.95,PlayStation 3,T,2006,16.9
+Castlevania: Dawn of Sorrow,1,"Action,Role-Playing (RPG)",Konami,89,0.31,17.95,Nintendo DS,T,2005,16.0333333333333
+Snoopy vs. the Red Baron,1,Action,Namco,76,0.05,17.95,Sony PSP,E,2006,6
+Ace Combat X: Skies of Deception,1,"Action,Simulation",Namco,75,0.32,22.95,Sony PSP,E,2006,4.88333333333333
+Disgaea DS,1,"Role-Playing (RPG),Strategy",,82,0.1,24.95,Nintendo DS,M,2008,82.7666666666667
+WWE Smackdown vs. Raw 2008,6,Sports,THQ,74,0.64,14.95,PlayStation 3,E,2007,25.3166666666667
+Fallout 3,1,"Action,Role-Playing (RPG)",,90,1.48,17.95,PlayStation 3,M,2008,60.0666666666667
+Army of Two,2,Action,EA,72,1.12,16.95,X360,T,2008,6.8
+Heavenly Sword,1,Action,Sony,79,0.57,24.95,PlayStation 3,E,2007,7.13333333333333
+Guitar Hero III: Legends of Rock,2,"Action,Simulation",Activision,86,3.19,49.95,Nintendo Wii,T,2007,15.1833333333333
+X-Men: The Official Game,1,Action,Activision,50,0.1,14.95,Nintendo DS,E,2006,11.8833333333333
+TMNT,1,Action,Ubisoft,58,0.28,19.95,X360,E,2007,4.91666666666667
+Endless Ocean,1,Simulation,Nintendo,72,0.44,24.95,Nintendo Wii,E,2007,10.9666666666667
+Pirates of the Caribbean: Dead Man's Chest,1,Action,,52,0.26,14.95,Sony PSP,T,2006,2.68333333333333
+Ape Escape Academy,4,"Action,Sports",Sony,51,0.13,14.95,Sony PSP,E,2004,1.88333333333333
+NiGHTS: Journey of Dreams,2,Action,Sega,69,0.3,14.95,Nintendo Wii,M,2007,6.68333333333333
+MX vs. ATV Untamed,1,Racing / Driving,THQ,70,0.22,24.95,Nintendo Wii,E,2008,12
+Spider-Man 3,1,Action,Activision,63,0.5,11.95,X360,E,2007,10.8333333333333
+The Legend of Heroes: A Tear of Vermillion,1,Role-Playing (RPG),,68,0.08,17.95,Sony PSP,T,2005,31.2833333333333
+Sonic Rush Adventure,1,"Action,Sports",Sega,78,0.52,24.95,Nintendo DS,T,2007,9.2
+Mirror's Edge,1,Action,EA,79,0.29,14.95,PlayStation 3,T,2008,7.01666666666667
+Dynasty Warriors 6,2,"Action,Strategy",,59,0.18,24.95,PlayStation 3,M,2008,29.35
+Major League Baseball 2K6,2,Sports,2K,66,0.37,4.95,X360,T,2006,7.65
+SoulCalibur IV,2,Action,"Namco,Ubisoft",85,0.65,22.95,PlayStation 3,E,2008,10.0833333333333
+Need for Speed: Most Wanted 5-1-0,1,Racing / Driving,EA,72,1.67,14.95,Sony PSP,M,2005,11.3833333333333
+Bomberman Land Touch!,1,Action,,78,0.04,24.95,Nintendo DS,E,2006,16.4166666666667
+Wall-E,4,Action,THQ,50,0.27,14.95,X360,E,2008,7.35
+Cartoon Network Racing,1,Racing / Driving,,55,0.05,14.95,Nintendo DS,E,2006,14.8666666666667
+Warriors Orochi,2,"Action,Role-Playing (RPG)",,53,0.17,19.95,X360,E,2007,16.25
+Trauma Center: Under The Knife 2,1,"Action,Simulation",,79,0.09,19.95,Nintendo DS,T,2008,12
+Rampage: Total Destruction,4,Action,Midway,46,0.19,16.95,Nintendo Wii,E,2006,5
+Guitar Hero II,2,"Action,Simulation",Activision,92,2.04,17.95,X360,T,2007,13.4166666666667
+The Darkness,1,Action,2K,80,0.2,14.95,PlayStation 3,E,2007,10.9
+Battle Fantasia,2,"Action,Role-Playing (RPG)",,71,0.05,22.95,X360,M,2008,1.13333333333333
+Blitz: The League,2,Sports,Midway,69,0.14,14.95,X360,T,2006,15
+Super Mario 64 DS,1,Action,Nintendo,85,4.69,24.95,Nintendo DS,E,2004,22.7166666666667
+GRID,1,"Racing / Driving,Simulation,Sports",,87,0.31,24.95,PlayStation 3,T,2008,28.5833333333333
+NCAA Football 08,2,Sports,EA,81,0.68,9.95,X360,E,2007,12
+Izuna 2: The Unemployed Ninja Returns,1,Role-Playing (RPG),,65,0.04,17.95,Nintendo DS,E,2008,13.25
+Ice Age 2: The Meltdown,1,Action,,66,0.07,17.95,Nintendo Wii,E,2006,9.25
+Medal of Honor: Heroes,1,Action,EA,71,0.81,14.95,Sony PSP,E,2006,4.96666666666667
+The Spiderwick Chronicles,1,Role-Playing (RPG),,60,0.06,12.95,Nintendo DS,E,2008,5.33333333333333
+Patapon,1,"Action,Strategy",Sony,86,0.3,17.95,Sony PSP,T,2008,19.9
+Eragon,2,Action,,48,0.09,12.95,X360,T,2006,8.83333333333333
+Grand Theft Auto IV,1,"Action,Racing / Driving",Rockstar,98,3.91,24.95,PlayStation 3,E,2008,38.8833333333333
+Turn It Around,1,"Racing / Driving,Sports",,39,0.02,9.95,Nintendo DS,E,2007,1
+Mega Man ZX,1,Action,Capcom,76,0.14,19.95,Nintendo DS,T,2006,11.2666666666667
+Enchanted Arms,1,Role-Playing (RPG),Ubisoft,64,0.18,17.95,PlayStation 3,E,2007,43.2833333333333
+Star Trek Legacy,2,"Action,Strategy",Ubisoft,64,0.14,24.95,X360,E,2006,9.03333333333333
+Dragon Ball Z: Shin Budokai - Another Road,1,Action,"Atari,Namco",65,0.27,16.95,Sony PSP,E,2007,8.61666666666667
+Turning Point: Fall of Liberty,1,Action,,42,0.22,7.95,PlayStation 3,T,2008,5.11666666666667
+Gunpey DS,1,Strategy,Namco,70,0.05,12.95,Nintendo DS,E,2006,8
+Samba de Amigo,2,Action,Sega,68,0.4,12.95,Nintendo Wii,T,2008,8
+Shadowrun,1,Action,Microsoft,66,0.38,12.95,X360,E,2007,28.85
+MLB 08: The Show,2,Sports,Sony,85,0.67,12.95,PlayStation 3,E,2008,10
+SoulCalibur IV,2,Action,Namco,85,0.87,19.95,X360,E,2008,10.0833333333333
+Escape from Bug Island,1,Action,Eidos,37,0.04,14.95,Nintendo Wii,T,2007,7.58333333333333
+Soldier of Fortune: Payback,1,Action,Activision,50,0.09,14.95,PlayStation 3,E,2007,3.78333333333333
+Guitar Hero: On Tour - Decades,1,"Action,Simulation",Activision,72,0.8,17.95,Nintendo DS,T,2008,10.9166666666667
+Touch Detective 2 1/2,1,Adventure,,67,0.08,14.95,Nintendo DS,T,2007,6.63333333333333
+Command & Conquer 3: Kane's Wrath,1,Strategy,EA,75,0.15,17.95,X360,M,2008,9.76666666666667
+Lara Croft Tomb Raider: Legend,1,"Action,Racing / Driving",Eidos,58,0.05,17.95,Nintendo DS,E,2006,9.15
+Sonic Riders: Zero Gravity,4,Racing / Driving,Sega,56,0.45,16.95,Nintendo Wii,T,2008,5.5
+The Sims 2: Pets,1,Simulation,EA,65,0.43,22.95,Nintendo Wii,T,2007,27.7
+Mega Man Star Force 2: Zerker X Ninja,1,"Action,Role-Playing (RPG)",Capcom,55,0.24,17.95,Nintendo DS,T,2008,19.7166666666667
+Neopets Puzzle Adventure,1,"Role-Playing (RPG),Strategy",Capcom,52,0.14,14.95,Nintendo Wii,E,2008,3
+Mr. DRILLER: Drill Spirits,1,Action,Namco,72,0.09,14.95,Nintendo DS,T,2004,9.88333333333333
+Klonoa: Door to Phantomile,1,Action,Namco,77,0.09,17.95,Nintendo Wii,T,2008,5.01666666666667
+Viking: Battle for Asgard,1,Action,Sega,68,0.16,14.95,X360,M,2008,17.5
+Age of Empires: The Age of Kings,1,Strategy,,80,0.19,17.95,Nintendo DS,T,2006,57.85
+Gradius Collection,1,Action,Konami,76,0.04,17.95,Sony PSP,T,2006,10.1166666666667
+Final Fantasy,1,Role-Playing (RPG),SquareEnix,67,0.35,17.95,Sony PSP,T,2007,22.4
+Kane & Lynch: Dead Men,2,Action,Eidos,64,0.29,19.95,PlayStation 3,E,2007,5.93333333333333
+The Dark Spire,1,"Adventure,Role-Playing (RPG)",,69,0.04,24.95,Nintendo DS,T,2008,56.0166666666667
+Tony Hawk's Project 8,2,Sports,Activision,76,0.3,14.95,PlayStation 3,T,2006,17.1666666666667
+The Spiderwick Chronicles,2,"Action,Adventure",,62,0.16,16.95,Nintendo Wii,M,2008,5.33333333333333
+MediEvil Resurrection,1,Action,Sony,66,0.19,17.95,Sony PSP,T,2005,9.6
+Mystery Dungeon: Shiren the Wanderer,1,"Action,Role-Playing (RPG)",Sega,69,0.17,17.95,Nintendo DS,T,2006,33
+TNA iMPACT!,1,Sports,Midway,43,0.14,14.95,Nintendo Wii,E,2008,15.8833333333333
+Jeanne d'Arc,1,"Role-Playing (RPG),Strategy",Sony,87,0.21,19.95,Sony PSP,T,2007,39.4833333333333
+Pac-Man World 3,1,Action,"EA,Namco",61,0.06,24.95,Sony PSP,E,2005,8
+Bladestorm: The Hundred Years' War,1,"Action,Role-Playing (RPG),Strategy",,58,0.1,44.95,PlayStation 3,E,2007,51.25
+Lunar Knights,1,Action,Konami,82,0.18,16.95,Nintendo DS,T,2007,18.55
+Disney Pirates of the Caribbean: At World's End,2,Action,Disney,55,0.15,14.95,PlayStation 3,M,2007,10.3166666666667
+Spider-Man 2,1,Action,Activision,67,0.38,14.95,Sony PSP,M,2005,13.25
+Fire Emblem: Radiant Dawn,1,"Role-Playing (RPG),Strategy",Nintendo,78,0.26,34.95,Nintendo Wii,T,2007,50.1833333333333
+Full Auto 2: Battlelines,2,"Action,Racing / Driving",Sega,67,0.14,14.95,PlayStation 3,T,2006,10.0333333333333
+Hot Pixel,1,Action,Atari,55,0.03,8.95,Sony PSP,T,2007,0.716666666666667
+Far Cry: Instincts - Predator,4,Action,Ubisoft,78,0.19,17.95,X360,E,2006,18.7666666666667
+Need for Speed: ProStreet,2,Racing / Driving,EA,73,0.75,16.95,PlayStation 3,T,2007,13.1
+Hotel Dusk: Room 215,1,Adventure,Nintendo,78,0.22,14.95,Nintendo DS,E,2007,15.6
+Pokemon Mystery Dungeon: Explorers of Darkness,1,Role-Playing (RPG),Nintendo,59,1.91,15.95,Nintendo DS,E,2007,31.1833333333333
+Ys VI: The Ark of Napishtim,1,"Action,Role-Playing (RPG)",Konami,64,0.05,16.95,Sony PSP,E,2006,14.7166666666667
+Syphon Filter: Logan's Shadow,1,"Action,Strategy",Sony,85,0.23,16.95,Sony PSP,T,2007,10.6333333333333
+Namco Museum DS,1,Action,Namco,67,0.8,17.95,Nintendo DS,E,2007,10
+Justice League Heroes,1,Action,,43,0.08,17.95,Nintendo DS,E,2006,10.3666666666667
+Death Jr. II: Root of Evil,2,Action,Konami,68,0.05,14.95,Sony PSP,E,2006,9.7
+Condemned 2: Bloodshot,1,"Action,Adventure",Sega,82,0.16,14.95,PlayStation 3,T,2008,10.15
+Hour of Victory,1,Action,Midway,37,0.11,12.95,X360,M,2007,6.13333333333333
+Flash Focus: Vision Training in Minutes a Day,1,Action,Nintendo,59,0.91,17.95,Nintendo DS,T,2007,6
+LEGO Batman: The Videogame,2,Action,,76,1.64,14.95,X360,T,2008,17.3333333333333
+Assassin's Creed,1,Action,Ubisoft,81,3.17,16.95,X360,T,2007,18.75
+Dead or Alive 4,4,Action,,85,0.38,17.95,X360,E,2005,27.3833333333333
+Overlord,1,"Action,Strategy",,76,0.35,17.95,X360,M,2007,22.1
+Cabela's Alaskan Adventures,1,Sports,Activision,48,0.1,17.95,X360,E,2006,20
+7 Wonders of the Ancient World,1,Strategy,,60,0.1,17.95,Nintendo DS,T,2007,7.48333333333333
+Tony Hawk's American Sk8land,1,Sports,Activision,84,0.21,16.95,Nintendo DS,E,2005,18.8
+Soldier of Fortune: Payback,1,Action,Activision,50,0.16,13.95,X360,M,2007,3.78333333333333
+Polarium,1,Strategy,Nintendo,73,0.12,8.95,Nintendo DS,E,2004,6.73333333333333
+Street Fighter Alpha 3 MAX,1,Action,Capcom,80,0.27,14.95,Sony PSP,M,2006,3
+Iron Man,1,Action,Sega,42,0.33,17.95,PlayStation 3,T,2008,5.8
+SpongeBob Squarepants: Creature from the Krusty Krab,1,"Action,Adventure",THQ,57,0.44,14.95,Nintendo Wii,T,2006,7.08333333333333
+NHL 07 ,1,Sports,EA,79,0.26,5.95,X360,T,2006,9
+Silent Hill: Homecoming,1,Action,Konami,70,0.22,17.95,X360,T,2008,10.1333333333333
+Kung Fu Panda,4,Action,Activision,70,0.52,16.95,Nintendo Wii,E,2008,6.7
+Mario & Sonic at the Olympic Games,4,"Action,Sports","Nintendo,Sega",67,2.74,29.95,Nintendo Wii,E,2007,9.23333333333333
+SEGA Bass Fishing,1,Sports,Sega,59,0.34,17.95,Nintendo Wii,E,2008,8.36666666666667
+SSX Blur,4,Sports,EA,74,0.31,17.95,Nintendo Wii,E,2007,10
+Tom Clancy's Splinter Cell: Double Agent,1,"Action,Strategy",Ubisoft,78,0.19,22.95,PlayStation 3,M,2007,12.4166666666667
+Jam Sessions,1,"Educational,Simulation",Ubisoft,72,0.38,8.95,Nintendo DS,T,2007,0.25
+Gears of War,2,Action,Microsoft,94,3.7,19.95,X360,M,2006,10.8333333333333
+Children of Mana,1,"Action,Role-Playing (RPG)","Nintendo,SquareEnix",65,0.16,16.95,Nintendo DS,E,2006,22.55
+Need for Speed: ProStreet,2,Racing / Driving,EA,61,0.49,16.95,Nintendo Wii,M,2007,13.1
+Pursuit Force: Extreme Justice,1,"Action,Racing / Driving",Sony,73,0.05,14.95,Sony PSP,E,2007,8.5
+Picross DS,1,Strategy,Nintendo,83,0.17,17.95,Nintendo DS,E,2007,62.4333333333333
+Ratatouille,1,Action,THQ,55,0.09,17.95,PlayStation 3,T,2007,13.2
+BlackSite: Area 51,1,Action,Midway,62,0.29,17.95,X360,E,2007,5.81666666666667
+Tales of Vesperia,1,"Adventure,Role-Playing (RPG)",Namco,79,0.25,27.95,X360,M,2008,71.7833333333333
+Point Blank DS,1,Action,"Atari,Namco",66,0.04,17.95,Nintendo DS,M,2006,0.9
+TimeShift,1,Action,,70,0.11,16.95,PlayStation 3,M,2007,8.5
+Fight Night Round 3,2,"Action,Sports",EA,83,0.86,13.95,PlayStation 3,T,2006,11.1833333333333
+Marvel Nemesis: Rise of the Imperfects ,1,Action,EA,58,0.31,17.95,Sony PSP,T,2005,5.03333333333333
+Bully: Scholarship Edition,2,"Action,Adventure",Rockstar,83,0.16,17.95,Nintendo Wii,E,2008,18.8
+Indianapolis 500 Legends,1,Racing / Driving,,51,0.07,16.95,Nintendo DS,T,2007,14.5
+GRID,1,"Racing / Driving,Simulation,Sports",,87,0.35,19.95,X360,E,2008,28.5833333333333
+Space Chimps,2,"Action,Adventure",,57,0.07,14.95,X360,T,2008,2.4
+Harry Potter and the Order of the Phoenix,1,Action,EA,68,0.22,16.95,X360,M,2007,12.3833333333333
+Burnout Dominator,4,"Action,Racing / Driving",EA,76,0.02,17.95,Sony PSP,T,2007,17.5833333333333
+Just Cause,1,"Action,Racing / Driving",Eidos,73,0.09,16.95,X360,E,2006,14.6166666666667
+Dynasty Warriors: Gundam,2,Action,Namco,55,0.15,22.95,X360,M,2007,62.0666666666667
+Dead or Alive: Xtreme 2,1,"Racing / Driving,Sports",,53,0.13,14.95,X360,T,2006,1
+Ontamarama,1,Action,,71,0.05,17.95,Nintendo DS,M,2007,1
+Wii Play,2,"Action,Sports",Nintendo,58,14.66,14.95,Nintendo Wii,T,2006,5.81666666666667
+Etrian Odyssey,1,Role-Playing (RPG),Nintendo,75,0.19,24.95,Nintendo DS,E,2007,60.8166666666667
+TV Show King,4,Strategy,,65,0.19,17.95,Nintendo Wii,T,2008,30
+Enchanted Arms,1,Role-Playing (RPG),Ubisoft,69,0.15,17.95,X360,E,2006,43.2833333333333
+Star Wars: The Force Unleashed,1,Action,,73,1.59,16.95,X360,T,2008,6.13333333333333
+Battles of Prince of Persia,1,Strategy,Ubisoft,64,0.09,14.95,Nintendo DS,E,2005,8.5
+Scooby-Doo! Unmasked,1,Action,THQ,60,0.08,17.95,Nintendo DS,E,2005,8
+Ghost Rider,4,Action,2K,49,0.23,16.95,Sony PSP,T,2007,4.63333333333333
+WipEout Pulse,1,"Action,Racing / Driving",Sony,82,0.11,16.95,Sony PSP,T,2007,8.66666666666667
+Xiaolin Showdown,1,Action,Konami,44,0.06,14.95,Sony PSP,M,2006,9.45
+Harvest Moon: Magical Melody,4,"Role-Playing (RPG),Simulation",,69,0.18,23.95,Nintendo Wii,T,2008,32.9666666666667
+Geometry Wars: Galaxies,2,Action,,80,0.11,16.95,Nintendo Wii,T,2007,18.5
+The Outfit,2,Action,THQ,70,0.23,14.95,X360,E,2006,7.86666666666667
+Dead Head Fred,1,Action,,75,0.03,12.95,Sony PSP,E,2007,9.9
+WWE SmackDown vs. Raw 2007,4,Sports,THQ,78,0.34,14.95,Sony PSP,T,2006,23.4
+Armored Core 4,2,Action,Sega,65,0.09,19.95,PlayStation 3,E,2006,20.6
+Final Fantasy Tactics,1,"Role-Playing (RPG),Strategy",SquareEnix,88,0.44,17.95,Sony PSP,M,2007,58.1666666666667
+Harry Potter and the Goblet of Fire,1,Action,EA,68,0.21,17.95,Nintendo DS,T,2005,10.5333333333333
+Virtua Tennis 3,4,Sports,Sega,80,0.01,14.95,X360,T,2007,18.1666666666667
+Brothers in Arms: D-Day,1,Action,Ubisoft,65,0.19,6.95,Sony PSP,T,2006,8
+Armored Core: For Answer,1,Action,Ubisoft,64,0.05,24.95,X360,T,2008,56.8833333333333
+Master of Illusion,1,Strategy,Nintendo,69,0.14,14.95,Nintendo DS,E,2006,4.1
+Sonic Chronicles: The Dark Brotherhood,1,"Action,Role-Playing (RPG)",Sega,74,0.52,17.95,Nintendo DS,E,2008,22.1666666666667
+Valhalla Knights,1,"Action,Role-Playing (RPG)",,53,0.17,16.95,Sony PSP,T,2006,100
+Tony Hawk's Proving Ground,2,Sports,Activision,73,0.37,12.95,PlayStation 3,E,2007,8.13333333333333
+Tom Clancy's Ghost Recon: Advanced Warfighter 2...,1,Action,Ubisoft,86,0.89,14.95,X360,T,2007,8.66666666666667
+Bladestorm: The Hundred Years' War,1,"Action,Role-Playing (RPG),Strategy",,63,0.08,34.95,X360,T,2007,51.25
+Valkyrie Profile: Covenant of the Plume,1,"Role-Playing (RPG),Strategy",SquareEnix,74,0.2,24.95,Nintendo DS,M,2008,26.45
+Prince of Persia,1,Action,Ubisoft,85,0.48,17.95,PlayStation 3,T,2008,13.9166666666667
+Marvel Ultimate Alliance,4,"Action,Role-Playing (RPG)",Activision,78,0.33,24.95,PlayStation 3,M,2006,15.25
+The Incredible Hulk,1,Action,Sega,55,0.21,16.95,PlayStation 3,T,2008,5.21666666666667
+Magical Starsign,1,Role-Playing (RPG),Nintendo,69,0.1,9.95,Nintendo DS,E,2006,28.9666666666667
+Vampire Rain,1,Action,Microsoft,38,0.15,11.95,X360,T,2007,10.8833333333333
+LEGO Indiana Jones: The Original Adventures,1,Action,,76,0.34,17.95,Sony PSP,E,2008,15.1333333333333
+Left 4 Dead,2,Action,,89,2.39,19.95,X360,M,2008,14.0833333333333
+Crash of the Titans,1,Action,,73,0.46,17.95,Nintendo DS,T,2007,7.75
+The Simpsons Game,1,Action,EA,69,0.6,17.95,Nintendo DS,M,2007,1.03333333333333
+Kung Fu Panda,1,Action,Activision,71,0.56,17.95,Nintendo DS,E,2008,6.7
+Turok,1,Action,,69,0.47,14.95,X360,E,2008,9.71666666666667
+NHL 09,1,Sports,EA,88,0.31,19.95,PlayStation 3,M,2008,26.6666666666667
+Tom Clancy's Ghost Recon: Advanced Warfighter 2...,4,Action,Ubisoft,84,0.35,17.95,PlayStation 3,T,2007,8.66666666666667
+Trauma Center: New Blood,2,"Action,Simulation",Nintendo,77,0.22,17.95,Nintendo Wii,E,2007,11.7333333333333
+Resistance 2,2,Action,Sony,87,1.11,24.95,PlayStation 3,E,2008,10.5833333333333
+Mario & Sonic at the Olympic Games,1,"Action,Sports","Nintendo,Sega",70,1.74,24.95,Nintendo DS,T,2008,9.23333333333333
+Baroque,1,"Action,Role-Playing (RPG)",,50,0.04,19.95,Nintendo Wii,T,2008,7.78333333333333
+Lost Odyssey,1,Role-Playing (RPG),Microsoft,78,0.45,19.95,X360,T,2007,69.95
+Too Human,1,"Action,Role-Playing (RPG)",Microsoft,65,0.35,14.95,X360,T,2008,20.5166666666667
+Disney Pirates of the Caribbean: At World's End,1,Action,Disney,66,0.27,14.95,Nintendo DS,T,2007,10.3166666666667
+Madden NFL 09,4,Sports,EA,68,0.68,14.95,Sony PSP,T,2008,15.8833333333333
+Superman Returns,1,Action,EA,51,0.19,7.95,X360,E,2006,18.7666666666667
+Need for Speed: Carbon,2,Racing / Driving,EA,75,0.47,17.95,PlayStation 3,T,2006,13.3
+De Blob,4,Action,THQ,82,0.45,16.95,Nintendo Wii,M,2008,12.1333333333333
+Blitz: The League II,2,"Action,Sports",Midway,68,0.07,12.95,X360,M,2008,20
+Family Guy Video Game!,1,Action,2K,51,0.19,19.95,Sony PSP,M,2006,6.1
+Heatseeker,1,Action,,62,0.09,17.95,Nintendo Wii,T,2007,9.75
+Tetris DS,1,Strategy,Nintendo,84,0.66,17.95,Nintendo DS,M,2006,27.4
+Bionicle Heroes,1,Action,Eidos,72,0.06,16.95,Nintendo DS,T,2006,15.3
+The Golden Compass,1,Action,Sega,41,0.27,9.95,X360,M,2007,8.56666666666667
+Battlestations: Midway,1,"Action,Strategy",Eidos,73,0.21,17.95,X360,T,2007,7.96666666666667
+Rhythm Heaven,1,Action,Nintendo,83,0.45,24.95,Nintendo DS,T,2008,9.11666666666667
+Lost Planet: Extreme Condition,1,Action,Capcom,79,1.15,12.95,X360,M,2006,8.86666666666667
+Juiced 2: Hot Import Nights,1,Racing / Driving,THQ,71,0.18,17.95,PlayStation 3,T,2007,16.45
+Manhunt 2,1,Action,Rockstar,62,0.26,19.95,Nintendo Wii,E,2007,10.3833333333333
+Dragon Ball Z: Budokai Tenkaichi 2,2,Action,Atari,72,0.24,14.95,Nintendo Wii,E,2006,17.6333333333333
+Guitar Hero: Aerosmith,2,"Action,Simulation",Activision,70,0.65,14.95,PlayStation 3,M,2008,11.3
+Test Drive Unlimited,1,Racing / Driving,Atari,82,0.25,17.95,X360,T,2006,53.4
+Excite Truck,2,Racing / Driving,Nintendo,72,0.4,19.95,Nintendo Wii,M,2006,15.85
+GUN ,1,"Action,Racing / Driving,Role-Playing (RPG)",Activision,75,0.22,19.95,X360,E,2005,8.85
+Sonic Unleashed,1,Action,Sega,66,1.09,17.95,Nintendo Wii,E,2008,13.15
+Age of Empires: Mythologies,1,Strategy,THQ,78,0.17,17.95,Nintendo DS,T,2008,16.6
+"Flower, Sun and Rain",1,Adventure,,54,0.04,23.95,Nintendo DS,M,2008,10.15
+The Sims 2: Pets,1,Simulation,EA,57,0.21,17.95,Sony PSP,T,2006,27.7
+Juiced 2: Hot Import Nights,1,Racing / Driving,THQ,73,0.05,16.95,Sony PSP,E,2007,16.45
+Viewtiful Joe: Double Trouble!,1,Action,Capcom,73,0.08,14.95,Nintendo DS,E,2005,5.16666666666667
+Spider-Man: Web of Shadows,1,Action,Activision,68,0.36,19.95,X360,E,2008,12.5666666666667
+Major League Baseball 2K6,1,Sports,2K,69,0.12,4.95,Sony PSP,M,2006,7.65
+The Legend of Zelda: Phantom Hourglass,1,Action,Nintendo,90,1.92,24.95,Nintendo DS,E,2007,20.2166666666667
+Star Wars Battlefront: Renegade Squadron,1,Action,,73,0.93,16.95,Sony PSP,T,2007,4.08333333333333
+Castlevania: Order of Ecclesia,1,"Action,Adventure,Role-Playing (RPG)",Konami,85,0.24,24.95,Nintendo DS,T,2008,14.7666666666667
+Sonic Rivals 2,1,Action,Sega,60,0.46,22.95,Sony PSP,M,2007,22
+Lunar: Dragon Song,1,Role-Playing (RPG),Ubisoft,59,0.12,14.95,Nintendo DS,M,2005,25.6333333333333
+Ridge Racer,1,Racing / Driving,Namco,88,0.36,19.95,Sony PSP,E,2004,0.816666666666667
+Dragon Ball Z: Budokai Tenkaichi 3,2,Action,Atari,72,0.33,17.95,Nintendo Wii,E,2007,21.7666666666667
+Happy Feet,2,Action,Midway,46,0.13,14.95,Nintendo Wii,E,2006,0.666666666666667
+Mercenaries 2: World in Flames,1,Action,EA,72,0.66,14.95,X360,E,2008,22.8666666666667
+F.E.A.R. Files,1,Action,,66,0.06,17.95,X360,E,2007,11.5833333333333
+Import Tuner Challenge,2,Racing / Driving,Ubisoft,54,0.07,17.95,X360,E,2006,34.6666666666667
+Kung Fu Panda,1,Action,Activision,76,0.21,19.95,PlayStation 3,M,2008,6.7
+Spectrobes,1,"Action,Strategy",,63,0.68,14.95,Nintendo DS,E,2007,22.0166666666667
+LEGO Indiana Jones: The Original Adventures,2,Action,,77,2.42,9.95,X360,M,2008,15.1333333333333
+Killzone: Liberation,1,"Action,Strategy",Sony,77,0.32,16.95,Sony PSP,M,2006,8.3
+Pursuit Force,1,"Action,Racing / Driving",Sony,75,0.14,14.95,Sony PSP,M,2005,9.83333333333333
+The Lord of the Rings: Tactics,1,"Role-Playing (RPG),Strategy",EA,64,0.11,19.95,Sony PSP,M,2005,5
+Culdcept Saga,4,Strategy,Namco,75,0.12,17.95,X360,T,2008,47.6166666666667
+Guilty Gear: Dust Strikers,1,Action,,60,0.05,14.95,Nintendo DS,E,2006,0.316666666666667
+Turok,1,Action,,67,0.36,16.95,PlayStation 3,M,2008,9.71666666666667
+Bionicle Heroes,1,Action,Eidos,59,0.06,14.95,X360,T,2006,15.3
+Tomb Raider: Underworld,1,Action,Eidos,76,0.51,17.95,X360,E,2008,11.5166666666667
+Zubo,1,"Adventure,Role-Playing (RPG),Strategy",EA,75,0.05,14.95,Nintendo DS,E,2008,15
+Agatha Christie: Evil Under the Sun,1,Adventure,,46,0.05,17.95,Nintendo Wii,M,2008,7.61666666666667
+Ninja Gaiden: Dragon Sword,1,Action,,83,0.16,12.95,Nintendo DS,E,2008,5.3
+SOCOM: U.S. Navy SEALs - Confrontation,1,Action,Sony,63,0.91,16.95,PlayStation 3,E,2008,10
+Pokemon Mystery Dungeon: Explorers of Time,1,Role-Playing (RPG),Nintendo,59,1.91,24.95,Nintendo DS,T,2007,31.1833333333333
+Mushroom Men: The Spore Wars,2,Action,,72,0.12,17.95,Nintendo Wii,E,2008,5.51666666666667
+Tony Hawk's Proving Ground,2,Sports,Activision,57,0.23,16.95,Nintendo Wii,E,2007,8.13333333333333
+Driver: Parallel Lines,1,"Action,Racing / Driving",Ubisoft,59,0.01,24.95,Nintendo Wii,E,2007,11.3666666666667
+SEGA Rally Revo,2,"Racing / Driving,Simulation",Sega,77,0.1,14.95,X360,E,2007,34
+Sega Superstars Tennis,4,Sports,Sega,67,0.11,16.95,PlayStation 3,M,2008,7.88333333333333
+Onechanbara: Bikini Samurai Squad,1,Action,,39,0.09,19.95,X360,E,2006,16.9833333333333
+Fracture,1,Action,,62,0.09,14.95,PlayStation 3,M,2008,7.9
+?kami,1,Action,Capcom,90,0.39,17.95,Nintendo Wii,M,2008,44.9666666666667
+MotorStorm: Pacific Rift,4,"Action,Racing / Driving,Sports",Sony,82,0.37,29.95,PlayStation 3,T,2008,37.5
+Manhunt 2,1,Action,Rockstar,69,0.04,7.95,Sony PSP,T,2007,10.3833333333333
+Shrek the Third,2,Action,Activision,56,0.28,14.95,X360,E,2007,5.11666666666667
+MotoGP,1,"Racing / Driving,Sports",Sony,69,0.03,32.95,Sony PSP,E,2006,7.5
+Death Jr.,1,Action,Konami,61,0.19,9.95,Sony PSP,M,2005,3.53333333333333
+LostMagic,1,"Action,Role-Playing (RPG)",Ubisoft,68,0.09,14.95,Nintendo DS,T,2006,13.2833333333333
+BioShock,1,Action,2K,96,1.52,16.95,X360,T,2007,14.6666666666667
+Transformers: The Game,1,Action,Activision,52,0.51,14.95,X360,M,2007,7.23333333333333
+Thrillville,1,"Simulation,Strategy",Atari,72,0.2,14.95,Sony PSP,E,2006,8.23333333333333
+Crash: Mind over Mutant,1,Action,,70,0.36,17.95,Nintendo Wii,E,2008,6.08333333333333
+Nervous Brickdown,1,Action,,70,0.01,17.95,Nintendo DS,E,2007,8
+Star Wars: The Force Unleashed,1,Action,,71,0.92,17.95,PlayStation 3,E,2008,6.13333333333333
+Harry Potter and the Order of the Phoenix,1,Action,EA,69,0.4,24.95,Nintendo Wii,T,2007,12.3833333333333
+Cabela's Big Game Hunter,1,"Simulation,Sports",Activision,51,0.04,19.95,X360,E,2007,4.5
+FIFA Street 3,1,Sports,EA,63,0.06,17.95,PlayStation 3,T,2008,5.75
+Phoenix Wright: Ace Attorney - Justice for All,1,"Adventure,Simulation",Capcom,76,0.17,13.95,Nintendo DS,E,2006,18.8333333333333
+Dragon Quest IV: Chapters of the Chosen,1,Role-Playing (RPG),SquareEnix,80,0.26,24.95,Nintendo DS,T,2007,31.5666666666667
+MX vs. ATV Untamed,1,Racing / Driving,THQ,61,0.11,17.95,Nintendo DS,E,2007,12
+Star Wars: The Clone Wars - Jedi Alliance,1,"Action,Adventure",,68,0.6,17.95,Nintendo DS,T,2008,5.13333333333333
+Every Extend Extra,1,Action,,74,0.06,11.95,Sony PSP,E,2006,12
+The Elder Scrolls IV: Oblivion,1,"Action,Role-Playing (RPG)",2K,94,2.12,19.95,X360,E,2006,101.083333333333
+Madden NFL 08,4,Sports,EA,85,2.32,9.95,X360,E,2007,106
+Don King Presents: Prizefighter,2,Sports,2K,56,0.15,14.95,X360,M,2008,12.85
+Yoshi's Island DS,1,Action,Nintendo,81,1.49,27.95,Nintendo DS,E,2006,9.63333333333333
+Metal Gear Solid 4: Guns of the Patriots,1,Action,Konami,94,2.58,22.95,PlayStation 3,T,2008,19.8666666666667
+Worms: A Space Oddity,4,"Action,Strategy",THQ,64,0.05,17.95,Nintendo Wii,M,2008,10
+Rayman Raving Rabbids,1,Action,Ubisoft,56,0.12,17.95,Nintendo DS,M,2007,6.7
+Final Fantasy Fables: Chocobo Tales,1,Action,SquareEnix,75,0.1,17.95,Nintendo DS,M,2007,17.2
+Wild Arms XF,1,Role-Playing (RPG),,64,0.06,17.95,Sony PSP,M,2008,56.2333333333333
+Ninja Gaiden Sigma,1,Action,,88,0.57,19.95,PlayStation 3,E,2007,14.9333333333333
+FIFA Street 3,4,Sports,EA,63,0.07,14.95,X360,T,2008,5.75
+Prey,1,Action,2K,79,0.27,14.95,X360,T,2006,8.35
+Heatseeker,1,Action,,49,0.04,12.95,Sony PSP,T,2007,9.75
+Samurai Warriors 2,4,Action,,52,0.07,14.95,X360,M,2006,46.1833333333333
+Full Auto,2,"Action,Racing / Driving",Sega,70,0.19,16.95,X360,E,2006,5
+Scurge: Hive,1,Action,,70,0.04,8.95,Nintendo DS,M,2006,10.7833333333333
+The Sims 2,1,"Role-Playing (RPG),Simulation",EA,70,0.83,17.95,Nintendo DS,M,2005,55.9333333333333
+Syberia,1,Adventure,,52,0.1,23.95,Nintendo DS,T,2008,10.85
+MX vs. ATV Untamed,2,Racing / Driving,THQ,70,0.48,17.95,X360,T,2007,12
+Winning Eleven: Pro Evolution Soccer 2007,6,Sports,Konami,80,0.08,11.95,X360,E,2006,37
+Agatha Christie: And Then There Were None,1,Adventure,,50,0.05,17.95,Nintendo Wii,M,2008,7.93333333333333
+Wall-E,4,Action,THQ,51,0.09,17.95,PlayStation 3,M,2008,7.35
+Resident Evil: Deadly Silence,1,Action,Capcom,71,0.1,17.95,Nintendo DS,E,2006,6.9
+LEGO Star Wars: The Complete Saga,2,Action,,80,1.09,17.95,X360,T,2007,24.8833333333333
+Crash: Mind over Mutant,1,Action,,60,0.22,24.95,X360,M,2008,6.08333333333333
+The House of the Dead 2 & 3 Return,2,Action,Sega,66,0.74,17.95,Nintendo Wii,M,2008,6.7
+Open Season,4,Action,Ubisoft,59,0.11,14.95,X360,E,2006,5.46666666666667
+Dungeon Explorer: Warriors of Ancient Arts,1,"Action,Role-Playing (RPG)",,60,0.05,17.95,Nintendo DS,M,2008,12.5833333333333
+Bullet Witch,1,Action,Atari,55,0.06,16.95,X360,M,2006,8.53333333333333
+Army of Two,2,Action,EA,74,0.75,16.95,PlayStation 3,T,2008,6.8
+Sega Superstars Tennis,1,Sports,Sega,65,0.29,14.95,Nintendo DS,T,2008,7.88333333333333
+Ultimate Ghosts 'N' Goblins,1,Action,Capcom,72,0.06,17.95,Sony PSP,E,2006,6.15
+FIFA Street 2,1,Sports,EA,58,0.07,17.95,Sony PSP,T,2006,25.7166666666667
+Viewtiful Joe: Red Hot Rumble,1,Action,Capcom,63,0.07,14.95,Sony PSP,E,2006,10.5666666666667
+Rayman Raving Rabbids,4,Action,Ubisoft,76,1.26,17.95,Nintendo Wii,T,2006,6.7
+Bee Movie Game,1,Adventure,Activision,58,0.44,17.95,Nintendo DS,E,2007,5.76666666666667
+Scarface: The World is Yours,1,"Action,Racing / Driving",,71,0.12,22.95,Nintendo Wii,M,2007,24.7833333333333
+Resident Evil: The Umbrella Chronicles,2,Action,"Capcom,Nintendo",75,0.69,19.95,Nintendo Wii,T,2007,11.7
+Harry Potter and the Goblet of Fire,1,Action,EA,70,0.19,17.95,Sony PSP,T,2005,10.5333333333333
+Uncharted: Drake's Fortune,1,Action,Sony,88,1.76,24.95,PlayStation 3,T,2007,9.5
+The Ant Bully,1,Action,Midway,45,0.09,16.95,Nintendo Wii,T,2006,3.56666666666667
+MX vs. ATV Untamed,2,Racing / Driving,THQ,67,0.33,17.95,PlayStation 3,T,2007,12
+Sonic the Hedgehog,2,Action,Sega,43,0.4,16.95,PlayStation 3,M,2007,3.53333333333333
+WipEout Pure,1,"Action,Racing / Driving",Sony,88,0.45,12.95,Sony PSP,E,2005,9.51666666666667
+Viking: Battle for Asgard,1,Action,Sega,65,0.14,16.95,PlayStation 3,M,2008,17.5
+Dark Sector,1,Action,,72,0.23,14.95,PlayStation 3,T,2008,9.16666666666667
+Brothers in Arms: Hell's Highway,1,Action,Ubisoft,76,0.42,19.95,PlayStation 3,T,2008,8.96666666666667
+The Chronicles of Narnia: Prince Caspian,2,"Action,Role-Playing (RPG)",Disney,56,0.13,14.95,X360,M,2008,12.8166666666667
+Zack & Wiki: Quest for Barbaros' Treasure,1,Adventure,Capcom,87,0.19,17.95,Nintendo Wii,E,2007,15.95
+Wii Fit,1,"Educational,Sports",Nintendo,80,9.6,24.95,Nintendo Wii,T,2007,6.06666666666667
+LEGO Batman: The Videogame,1,Action,,73,0.54,17.95,Sony PSP,M,2008,17.3333333333333
+Metroid Prime Pinball,1,"Action,Simulation",Nintendo,79,0.22,17.95,Nintendo DS,E,2005,5.56666666666667
+Mortal Kombat: Armageddon,4,"Action,Racing / Driving",Midway,71,0.16,24.95,Nintendo Wii,E,2007,13.1333333333333
+The Last Remnant,1,Role-Playing (RPG),SquareEnix,66,0.23,14.95,X360,T,2008,87.2833333333333
+"The Chronicles of Narnia: The Lion, the Witch a...",1,"Action,Role-Playing (RPG)",,65,0.18,12.95,Nintendo DS,T,2005,4.35
+SOCOM: U.S. Navy SEALs - Fireteam Bravo,1,Action,Sony,82,1.07,14.95,Sony PSP,E,2005,8.58333333333333
+Zoo Keeper,1,Action,,74,0.1,14.95,Nintendo DS,T,2004,7.15
+Medal of Honor: Vanguard,1,Action,EA,56,0.05,17.95,Nintendo Wii,T,2007,3.55
+The Chronicles of Narnia: Prince Caspian,2,"Action,Role-Playing (RPG)",Disney,63,0.33,16.95,Nintendo Wii,M,2008,12.8166666666667
+Metal Slug Anthology,4,Action,,73,0.11,16.95,Nintendo Wii,T,2006,7.48333333333333
+Meteos,1,Strategy,Nintendo,88,0.16,15.95,Nintendo DS,E,2005,17.2666666666667
+Top Spin 2,4,Sports,2K,75,0.16,12.95,X360,T,2006,10
+Heroes of Mana,1,Strategy,SquareEnix,66,0.06,24.95,Nintendo DS,T,2007,27.0166666666667
+Guitar Hero: World Tour,4,"Action,Simulation",Activision,86,2.47,17.95,Nintendo Wii,T,2008,15.95
+The Legend of Heroes II: Prophecy of the Moonli...,1,Role-Playing (RPG),Namco,63,0.04,17.95,Sony PSP,E,2006,24.7
+Virtua Tennis 3,1,Sports,Sega,79,0.02,16.95,Sony PSP,M,2007,18.1666666666667
+Viva Pi$?ata: Trouble in Paradise,2,"Racing / Driving,Simulation,Strategy",Microsoft,82,0.14,17.95,X360,T,2008,31.8833333333333
+Pure,1,"Racing / Driving,Sports",Disney,83,0.36,17.95,PlayStation 3,M,2008,13.6666666666667
+Medal of Honor: Airborne,2,Action,EA,73,0.45,17.95,X360,E,2007,6.38333333333333
+Mercenaries 2: World in Flames,1,Action,EA,72,0.27,15.95,PlayStation 3,E,2008,22.8666666666667
+The Rub Rabbits!,2,"Action,Adventure",Sega,68,0.02,17.95,Nintendo DS,M,2005,3.16666666666667
+Tales of Symphonia: Dawn of the New World,4,Role-Playing (RPG),Namco,68,0.2,24.95,Nintendo Wii,T,2008,41
+Grand Theft Auto: Liberty City Stories,1,"Action,Racing / Driving","Capcom,Rockstar",88,2.97,17.95,Sony PSP,E,2005,20.2666666666667
+FlatOut: Ultimate Carnage,1,Racing / Driving,,80,0.07,16.95,X360,E,2007,21.8
+N+,1,Action,Atari,82,0.06,14.95,Nintendo DS,M,2008,17.2
+All-Pro Football 2K8,4,Sports,2K,75,0.24,7.95,X360,T,2007,12
+Super Smash Bros.: Brawl,6,Action,Nintendo,93,5.71,39.95,Nintendo Wii,T,2008,51.4333333333333
+The Golden Compass,1,Action,Sega,35,0.26,14.95,Nintendo Wii,E,2007,8.56666666666667
+Knights in the Nightmare,1,"Role-Playing (RPG),Strategy",,76,0.06,29.95,Nintendo DS,M,2008,27.1166666666667
+LEGO Batman: The Videogame,2,Action,,75,0.43,17.95,PlayStation 3,E,2008,17.3333333333333
+Exit,1,Action,Ubisoft,77,0.05,9.95,Sony PSP,E,2005,6
+Spider-Man: Friend or Foe,2,Action,Activision,59,0.13,17.95,Nintendo Wii,T,2007,11.1166666666667
+Quake 4,1,Action,Activision,75,0.27,14.95,X360,E,2005,9.13333333333333
+Teenage Mutant Ninja Turtles 3: Mutant Nightmare,1,"Action,Adventure",Konami,58,0.06,17.95,Nintendo DS,T,2005,4.5
+Space Bust-A-Move,1,Strategy,SquareEnix,71,0.08,17.95,Nintendo DS,M,2008,4.01666666666667
+Perfect Dark Zero,4,Action,Microsoft,79,0.7,17.95,X360,E,2005,9.3
+Tiger Woods PGA Tour 07,4,Sports,EA,71,0.46,17.95,Nintendo Wii,T,2007,10
+Madden NFL 06,1,Sports,EA,66,0.12,9.95,Nintendo DS,E,2005,3.75
+Sid Meier's Civilization: Revolution,1,Strategy,2K,84,0.49,24.95,X360,T,2008,14.4
+The Sims 2: Castaway,1,Simulation,EA,73,0.45,17.95,Nintendo Wii,T,2007,8
+WWE Smackdown vs. Raw 2008,4,Sports,THQ,68,0.46,16.95,Sony PSP,E,2007,25.3166666666667
+Thrillville: Off the Rails,1,"Simulation,Strategy",,72,0.08,16.95,Sony PSP,T,2007,12.15
+Mario Party DS,1,"Action,Strategy",Nintendo,72,4.34,27.95,Nintendo DS,T,2007,8.03333333333333
+Draglade,1,Action,,71,0.1,16.95,Nintendo DS,M,2007,4.91666666666667
+Worms: Open Warfare 2,4,"Action,Strategy",THQ,80,0.04,17.95,Sony PSP,T,2007,9.11666666666667
+Rondo of Swords,1,"Role-Playing (RPG),Strategy",,69,0.15,19.95,Nintendo DS,E,2007,23.2333333333333
+The Club,4,Action,Sega,72,0.1,14.95,PlayStation 3,M,2008,6.13333333333333
+Gitaroo Man Lives!,1,Simulation,,80,0.04,22.95,Sony PSP,E,2006,2.43333333333333
+Harvest Moon DS,1,"Role-Playing (RPG),Simulation",,67,0.4,17.95,Nintendo DS,T,2006,53.3833333333333
+Infinite Undiscovery,1,"Action,Role-Playing (RPG)",SquareEnix,68,0.27,17.95,X360,T,2008,34.8333333333333
+Mario & Luigi: Partners in Time,1,"Action,Role-Playing (RPG)",Nintendo,86,0.75,29.95,Nintendo DS,E,2005,19.6666666666667
+LEGO Star Wars II: The Original Trilogy,2,Action,,83,0.61,17.95,Sony PSP,T,2006,17.55
+Madden NFL 08,4,Sports,EA,76,0.86,12.95,Nintendo Wii,M,2007,106
+The World Ends With You,1,"Action,Adventure,Role-Playing (RPG)",SquareEnix,88,0.37,17.95,Nintendo DS,M,2007,48.6666666666667
+Lost: Via Domus,1,"Action,Adventure",Ubisoft,54,0.17,16.95,PlayStation 3,T,2008,5.83333333333333
+Dissidia: Final Fantasy,1,"Action,Role-Playing (RPG)",SquareEnix,79,0.49,17.95,Sony PSP,T,2008,63.3166666666667
+Unreal Tournament III,1,Action,Midway,86,0.33,16.95,PlayStation 3,M,2007,14.0666666666667
+Untold Legends: Dark Kingdom,2,"Action,Role-Playing (RPG)","EA,Sony",58,0.13,16.95,PlayStation 3,E,2006,24.75
+Bomberman,1,"Action,Strategy",,73,0.15,12.95,Sony PSP,M,2008,3.33333333333333
+Need for Speed: Carbon,2,Racing / Driving,EA,77,0.78,16.95,X360,E,2006,13.3
+Surf's Up,4,Sports,Ubisoft,59,0.04,17.95,PlayStation 3,E,2007,1.28333333333333
+SimCity DS,1,Simulation,EA,69,0.29,14.95,Nintendo DS,T,2007,3
+Mario Hoops 3 on 3,1,Sports,Nintendo,69,1.03,22.95,Nintendo DS,M,2006,4.25
+MechAssault: Phantom War,1,Action,,66,0.03,12.95,Nintendo DS,E,2006,7.5
+Summon Night: Twin Age,1,Role-Playing (RPG),,73,0.06,24.95,Nintendo DS,E,2008,15.3333333333333
+Kirby: Squeak Squad,1,Action,Nintendo,71,0.82,27.95,Nintendo DS,T,2006,5.63333333333333
+Alien Syndrome,1,Action,Sega,51,0.07,12.95,Sony PSP,E,2007,2.78333333333333
+Luminous Arc,1,"Role-Playing (RPG),Strategy",,70,0.17,24.95,Nintendo DS,T,2007,28.1333333333333
+The Legend of Zelda: Twilight Princess,1,"Action,Role-Playing (RPG)",Nintendo,95,3.33,39.95,Nintendo Wii,M,2006,45.6
+Cooking Mama 2: Dinner with Friends,1,Simulation,,70,1.56,17.95,Nintendo DS,E,2007,8.21666666666667
+Star Wars: Battlefront II,1,Action,,69,1.09,16.95,Sony PSP,E,2005,15.0166666666667
+Mass Effect,1,"Action,Role-Playing (RPG)",Microsoft,91,1.57,17.95,X360,T,2007,28.0666666666667
+Blazing Angels 2: Secret Missions of WWII,2,Action,Ubisoft,72,0.09,16.95,X360,M,2007,13
+Castlevania: The Dracula X Chronicles,2,Action,Konami,80,0.21,16.95,Sony PSP,E,2007,8.56666666666667
+Harry Potter and the Order of the Phoenix,1,Action,EA,51,0.29,17.95,Nintendo DS,E,2007,12.3833333333333
+Tiger Woods PGA Tour 07,1,Sports,EA,80,0.45,9.95,X360,T,2006,10
+NBA 2K7,7,Sports,2K,80,0.31,7.95,PlayStation 3,E,2006,8.18333333333333
+WWE SmackDown vs. Raw 2007,4,Sports,THQ,81,0.45,12.95,X360,E,2006,23.4
+Madagascar: Escape 2 Africa,1,"Action,Adventure",Activision,55,0.32,17.95,Nintendo DS,T,2008,6.5
+LEGO Star Wars: The Complete Saga,2,Action,,80,0.85,17.95,PlayStation 3,M,2007,24.8833333333333
+MLB 08: The Show,1,Sports,Sony,83,0.33,14.95,Sony PSP,M,2008,10
+Madden NFL 09,4,Sports,EA,83,2.33,14.95,X360,T,2008,15.8833333333333
+Fantastic Four: Rise of the Silver Surfer,4,Action,2K,47,0.1,14.95,PlayStation 3,M,2007,7.6
+Need for Speed Underground: Rivals,4,Racing / Driving,EA,74,0.73,17.95,Sony PSP,E,2005,22.3666666666667
+Pokemon Dash,1,Racing / Driving,Nintendo,46,0.22,24.95,Nintendo DS,T,2004,3.83333333333333
+Alone in the Dark,1,"Action,Adventure,Racing / Driving",Atari,39,0.09,14.95,Nintendo Wii,T,2008,6.6
+Mystery Case Files: MillionHeir,1,Adventure,Nintendo,65,0.76,17.95,Nintendo DS,T,2008,8.03333333333333
+The Sims 2: Castaway,1,Simulation,EA,66,0.66,16.95,Nintendo DS,M,2007,8
+LEGO Indiana Jones: The Original Adventures,2,Action,,78,1.42,16.95,Nintendo Wii,E,2008,15.1333333333333
+Pokemon Battle Revolution,4,"Action,Strategy",Nintendo,53,0.81,39.95,Nintendo Wii,T,2006,20.0333333333333
+Advance Wars: Dual Strike,1,Strategy,Nintendo,90,0.3,17.95,Nintendo DS,T,2005,70.3666666666667
+The Sims 2: Castaway,1,Simulation,EA,64,0.08,17.95,Sony PSP,T,2007,8
+DiRT,1,"Racing / Driving,Simulation,Sports",,83,0.16,17.95,PlayStation 3,E,2007,16.0333333333333
+Guitar Hero: Aerosmith,1,"Action,Simulation",Activision,73,1.03,14.95,Nintendo Wii,E,2008,11.3
+Sega Superstars Tennis,4,Sports,Sega,71,0.28,12.95,Nintendo Wii,E,2008,7.88333333333333
+Tom Clancy's Rainbow Six: Vegas,2,Action,Ubisoft,86,0.49,16.95,PlayStation 3,E,2007,9.9
+Bangai-O Spirits,1,Action,,83,0.05,14.95,Nintendo DS,M,2008,11.75
+Madden NFL 08,4,Sports,EA,81,0.94,9.95,PlayStation 3,T,2007,106
+Call of Duty 4: Modern Warfare,4,Action,Activision,94,5.77,29.95,X360,E,2007,8.01666666666667
+Dynasty Warriors: Gundam,2,Action,Namco,60,0.15,22.95,PlayStation 3,E,2007,62.0666666666667
+The BIGS,1,"Action,Simulation,Sports",2K,72,0.11,16.95,Sony PSP,M,2007,16.8166666666667
+Juiced 2: Hot Import Nights,1,Racing / Driving,THQ,72,0.23,13.95,Nintendo DS,T,2007,16.45
+The Urbz: Sims in the City,1,Simulation,EA,67,0.41,12.95,Nintendo DS,M,2004,21.9333333333333
+F.E.A.R.: First Encounter Assault Recon,1,Action,,85,0.32,17.95,X360,E,2006,9.4
+Spider-Man 3,1,Action,Activision,53,0.45,14.95,Nintendo Wii,T,2007,10.8333333333333
+Destroy All Humans! Big Willy Unleashed,2,Adventure,THQ,53,0.11,17.95,Nintendo Wii,T,2008,4.5
+Spider-Man 3,1,Action,Activision,79,0.44,16.95,Nintendo DS,M,2007,10.8333333333333
+Cake Mania,1,Action,,55,0.08,16.95,Nintendo DS,M,2007,6
+Star Ocean: First Departure,1,"Action,Role-Playing (RPG)",SquareEnix,74,0.17,17.95,Sony PSP,T,2008,23.2833333333333
+Diner Dash,1,Action,,64,0.34,17.95,Nintendo DS,T,2007,5.13333333333333
+Need for Speed Underground 2,1,Racing / Driving,EA,65,0.11,22.95,Nintendo DS,T,2005,20.9666666666667
+Sid Meier's Civilization: Revolution,1,"Simulation,Strategy",2K,80,0.36,17.95,Nintendo DS,M,2008,14.4
+Trauma Center: Second Opinion,1,"Action,Simulation",Nintendo,80,0.28,17.95,Nintendo Wii,T,2006,9.21666666666667
+Tom Clancy's EndWar,1,Strategy,Ubisoft,76,0.28,17.95,PlayStation 3,M,2008,14.5333333333333
+Link's Crossbow Training,1,Action,Nintendo,68,3.2,14.95,Nintendo Wii,E,2007,2.1
+Far Cry 2,1,Action,Ubisoft,85,0.43,19.95,PlayStation 3,T,2008,26
+Need for Speed: Most Wanted,1,Racing / Driving,EA,45,0.25,15.95,Nintendo DS,E,2005,14.6
+Mega Man ZX Advent,1,Action,Capcom,78,0.22,17.95,Nintendo DS,T,2007,12.8833333333333
+Bionicle Heroes,1,Action,Eidos,52,0.03,17.95,Nintendo Wii,T,2007,15.3
+Chromehounds,1,"Action,Simulation,Strategy",Sega,71,0.25,14.95,X360,T,2006,32.6666666666667
+Medal of Honor: Heroes 2,1,Action,EA,69,0.5,17.95,Sony PSP,E,2007,4.96666666666667
+MySims,1,"Simulation,Strategy",EA,68,0.94,17.95,Nintendo Wii,T,2007,7.63333333333333
+NHL 07,4,Sports,EA,76,0.14,12.95,Sony PSP,M,2006,9
+Rhapsody: A Musical Adventure,1,Role-Playing (RPG),,67,0.03,12.95,Nintendo DS,M,2008,10.6666666666667
+Super Monkey Ball: Banana Blitz,4,Action,Sega,74,1,14.95,Nintendo Wii,T,2006,5.31666666666667
+Mario vs. Donkey Kong 2: March of the Minis,1,Action,Nintendo,76,0.77,27.95,Nintendo DS,T,2006,5.01666666666667
+Advance Wars: Days of Ruin,4,Strategy,Nintendo,86,0.43,17.95,Nintendo DS,E,2008,33.9333333333333
+Kane & Lynch: Dead Men,2,Action,Eidos,65,0.38,14.95,X360,E,2007,5.93333333333333
+Dragon Ball Z: Supersonic Warriors 2,1,Action,Atari,66,0.13,22.95,Nintendo DS,E,2005,15.0833333333333
+Viva Pi$?ata: Pocket Paradise,1,"Simulation,Strategy",THQ,82,0.28,17.95,Nintendo DS,T,2008,20.3333333333333
+Brothers in Arms: Hell's Highway,1,Action,Ubisoft,76,0.47,17.95,X360,E,2008,8.96666666666667
+WWE SmackDown vs. Raw 2008,1,Sports,THQ,61,0.11,14.95,Nintendo DS,T,2007,25.3166666666667
+Infected,1,Action,,74,0.15,17.95,Sony PSP,E,2005,6.66666666666667
+Pinball Hall of Fame: The Williams Collection,4,Simulation,,78,0.09,17.95,Sony PSP,T,2008,29.25
+WWE Smackdown vs. Raw 2006,4,"Action,Sports",THQ,81,0.38,14.95,Sony PSP,T,2005,19.5
+Sonic Rivals,1,"Action,Racing / Driving",Sega,64,0.76,17.95,Sony PSP,T,2006,9.6
+Secret Files: Tunguska,2,Adventure,,64,0.02,17.95,Nintendo Wii,M,2008,10.0833333333333
+LEGO Batman: The Videogame,2,Action,,74,1.32,17.95,Nintendo Wii,E,2008,17.3333333333333
+Pokemon Diamond,1,Role-Playing (RPG),Nintendo,85,6.77,27.95,Nintendo DS,E,2006,101.066666666667
+Samurai Warriors: State of War,1,Action,,64,0.07,17.95,Sony PSP,E,2006,10.5
+Elebits,4,Action,Konami,75,0.22,14.95,Nintendo Wii,T,2006,8.01666666666667
+Valkyria Chronicles,1,"Action,Role-Playing (RPG),Strategy",Sega,86,0.65,24.95,PlayStation 3,T,2008,37.0833333333333
+Code Lyoko: Quest for Infinity,1,Action,,58,0.07,17.95,Nintendo Wii,T,2007,5.8
+Star Fox Command,1,Action,Nintendo,76,0.39,14.95,Nintendo DS,T,2006,3.7
+Harvest Moon: Island of Happiness,1,"Simulation,Strategy",,65,0.42,24.95,Nintendo DS,E,2008,43
+Iron Man,1,Action,Sega,44,0.3,17.95,Nintendo Wii,T,2008,5.8
+Fire Emblem: Shadow Dragon,1,"Role-Playing (RPG),Strategy",Nintendo,81,0.25,19.95,Nintendo DS,M,2008,23.3166666666667
+Amped 3,1,Sports,2K,72,0.13,14.95,X360,E,2005,8.56666666666667
+Shrek the Third,1,Adventure,Activision,70,0.28,16.95,Nintendo DS,T,2007,5.11666666666667
+Puzzle Quest: Challenge of the Warlords,1,"Role-Playing (RPG),Strategy",,84,0.01,17.95,Sony PSP,T,2007,41.1666666666667
+Midnight Club 3: DUB Edition,1,Racing / Driving,Rockstar,74,1.69,14.95,Sony PSP,T,2005,39
+Metroid Prime: Hunters,1,Action,Nintendo,85,0.58,27.95,Nintendo DS,E,2006,9.3
+Guitar Hero: On Tour,1,"Action,Simulation",Activision,71,2.22,14.95,Nintendo DS,M,2008,24
+Bee Movie Game,2,Action,Activision,62,0.32,14.95,Nintendo Wii,E,2007,5.76666666666667
+Def Jam: Icon,2,Action,EA,68,0.16,16.95,PlayStation 3,E,2007,8
+Metal Gear Ac!d 2,1,Strategy,Konami,80,0.12,12.95,Sony PSP,E,2005,14.8333333333333
+Prince of Persia,1,Action,Ubisoft,81,0.53,16.95,X360,T,2008,13.9166666666667
+NBA 06,1,Sports,Sony,72,0.22,9.95,Sony PSP,E,2005,4
+Banjo-Kazooie: Nuts & Bolts,1,"Action,Adventure,Racing / Driving,Sports",Microsoft,79,0.31,17.95,X360,E,2008,26.9333333333333
+Final Fantasy IV,1,Role-Playing (RPG),SquareEnix,85,0.48,17.95,Nintendo DS,T,2007,38.3333333333333
+The Sims 2,1,"Simulation,Strategy",EA,65,0.46,14.95,Sony PSP,T,2005,55.9333333333333
+Def Jam Fight for NY: The Takeover,1,Action,EA,79,0.09,17.95,Sony PSP,T,2006,5.13333333333333
+The Lord of the Rings: The Battle for Middle Ea...,1,Strategy,EA,79,0.27,19.95,X360,T,2006,20.4333333333333
+Dragon Ball Z: Burst Limit,2,Action,"Atari,Namco",71,0.22,19.95,PlayStation 3,M,2008,8.05
+Guilty Gear XX ? Core,2,Action,,75,0.03,24.95,Nintendo Wii,E,2007,2
+Lost Planet: Extreme Condition,1,Action,Capcom,67,0.29,16.95,PlayStation 3,T,2008,8.86666666666667
+Trauma Center: Under the Knife,1,"Action,Simulation",Nintendo,81,0.3,15.95,Nintendo DS,T,2005,8.75
+Rune Factory 2: A Fantasy Harvest Moon,1,"Action,Role-Playing (RPG),Simulation",,79,0.3,17.95,Nintendo DS,T,2008,66.1333333333333
+Open Season,4,Action,Ubisoft,49,0.07,17.95,Nintendo Wii,M,2006,5.46666666666667
+Super Monkey Ball: Touch & Roll,1,Action,Sega,63,0.7,15.95,Nintendo DS,T,2005,1.45
+AC/DC Live: Rock Band - Track Pack,4,"Action,Simulation",,63,0.19,14.95,X360,M,2008,3.63333333333333
+Lost: Via Domus,1,"Action,Adventure",Ubisoft,55,0.15,17.95,X360,M,2008,5.83333333333333
+Crackdown,1,"Action,Racing / Driving,Role-Playing (RPG)",Microsoft,83,1.02,14.95,X360,M,2007,16.6666666666667
+Castlevania Judgment,2,Action,Konami,49,0.09,17.95,Nintendo Wii,T,2008,7.78333333333333
+Condemned 2: Bloodshot,1,"Action,Adventure",Sega,80,0.29,14.95,X360,T,2008,10.15
+Mario Kart DS,1,Racing / Driving,Nintendo,91,9.99,29.95,Nintendo DS,E,2005,10.4166666666667
+Chrono Trigger,2,Role-Playing (RPG),SquareEnix,92,0.51,17.95,Nintendo DS,T,2008,28.25
+Lumines II,2,Strategy,,81,0.12,14.95,Sony PSP,E,2006,14.5
+The Settlers,1,Strategy,Ubisoft,39,0.09,17.95,Nintendo DS,T,2007,7.18333333333333
+Legendary,1,Action,Atari,50,0.05,19.95,PlayStation 3,E,2008,5.85
+Need for Speed: ProStreet,2,Racing / Driving,EA,72,1.1,16.95,X360,T,2007,13.1
+Tom Clancy's Rainbow Six: Vegas 2,2,Action,Ubisoft,81,0.67,24.95,PlayStation 3,E,2008,9.9
+Fullmetal Alchemist: Dual Sympathy,1,Action,,58,0.05,14.95,Nintendo DS,M,2005,14
+Final Fantasy: Crystal Chronicles - Echoes of Time,1,Action,SquareEnix,75,0.11,24.95,Nintendo DS,T,2007,17.9333333333333
+Madagascar,1,Adventure,Activision,66,0.27,14.95,Nintendo DS,E,2005,6.68333333333333
+Red Steel,4,Action,Ubisoft,63,0.58,14.95,Nintendo Wii,T,2006,8.6
+Need for Speed: Most Wanted,2,Racing / Driving,EA,83,0.95,17.95,X360,E,2005,14.6
+Ratchet & Clank: Size Matters,1,Action,Sony,85,1.47,14.95,Sony PSP,E,2007,8.01666666666667
+LEGO Star Wars: The Complete Saga,1,"Action,Racing / Driving",,80,2.66,17.95,Nintendo DS,E,2007,24.8833333333333
+BioShock,1,Action,2K,94,0.53,17.95,PlayStation 3,E,2008,14.6666666666667
+Viva Pi$?ata,4,"Simulation,Strategy",Microsoft,84,0.44,16.95,X360,E,2006,38.7
+Conflict: Denied Ops,4,Action,Eidos,52,0.09,12.95,X360,T,2008,6.38333333333333
+Overlord: Raising Hell,2,"Action,Strategy",,72,0.05,17.95,PlayStation 3,T,2008,21.9833333333333
+Disgaea: Afternoon of Darkness,1,"Role-Playing (RPG),Strategy",,87,0.15,17.95,Sony PSP,M,2007,87.5
+Apollo Justice: Ace Attorney,1,"Adventure,Simulation",Capcom,78,0.24,24.95,Nintendo DS,T,2008,19.85
+Lemmings,1,Strategy,Sony,76,0.11,17.95,Sony PSP,E,2006,20.4333333333333
+InuYasha: Secret of the Divine Jewel,1,Role-Playing (RPG),Namco,46,0.09,24.95,Nintendo DS,T,2007,9.56666666666667
+Saints Row 2,1,"Action,Racing / Driving",THQ,82,0.81,17.95,PlayStation 3,M,2008,28.1
+Feel the Magic XY/XX,1,"Action,Adventure,Racing / Driving,Sports",Sega,75,0.16,8.95,Nintendo DS,T,2004,2.9
+Mortal Kombat vs. DC Universe,2,Action,Midway,72,0.98,24.95,X360,M,2008,4.73333333333333
+LifeSigns: Surgical Unit,1,"Simulation,Strategy",,61,0.01,22.95,Nintendo DS,T,2005,30.5166666666667
+TimeShift,1,Action,,70,0.32,12.95,X360,M,2007,8.5
+Rayman Raving Rabbids 2,4,Action,Ubisoft,67,0.84,17.95,Nintendo Wii,T,2007,7.33333333333333
+Monster Hunter Freedom 2,1,"Action,Strategy",Capcom,72,0.38,12.95,Sony PSP,T,2007,136.016666666667
+Harvey Birdman: Attorney at Law,1,Adventure,Capcom,60,0.06,14.95,Nintendo Wii,M,2008,4.13333333333333
+Code Lyoko: Fall of X.A.N.A,1,"Action,Role-Playing (RPG)",,51,0.06,14.95,Nintendo DS,M,2008,15.15
+PaRappa the Rapper,1,Action,Sony,67,0.07,12.95,Sony PSP,T,2006,1.7
+Rock Band,2,"Action,Simulation",,92,1.4,17.95,Nintendo Wii,T,2008,19.3666666666667
+Pokemon Ranger: Shadows of Almia,1,"Action,Role-Playing (RPG)",Nintendo,68,0.99,24.95,Nintendo DS,T,2008,28.75
+Midnight Club: Los Angeles,1,Racing / Driving,Rockstar,82,1.09,22.95,PlayStation 3,M,2008,30.6666666666667
+The Warriors,1,Action,Rockstar,52,0.24,17.95,Sony PSP,T,2007,12.5666666666667
+Stuntman: Ignition,4,"Action,Racing / Driving",THQ,75,0.26,14.95,X360,T,2007,8.2
+Afrika,1,"Adventure,Simulation",Sony,63,0.1,47.95,PlayStation 3,T,2008,28.2666666666667
+Alone in the Dark,1,"Action,Adventure,Racing / Driving",Atari,58,0.12,14.95,X360,M,2008,6.6
+R-Type Command,1,Strategy,,69,0.02,14.95,Sony PSP,M,2007,31.9
+The Simpsons Game,1,Action,EA,59,0.23,16.95,Sony PSP,M,2007,1.03333333333333
+LEGO Star Wars II: The Original Trilogy,1,Action,EA,47,1.02,17.95,Nintendo DS,E,2006,17.55
+Gran Turismo 5: Prologue,2,"Racing / Driving,Simulation",Sony,80,1.31,24.95,PlayStation 3,E,2007,13.9333333333333
+Worms: Open Warfare,1,"Action,Strategy",THQ,64,0.05,17.95,Nintendo DS,E,2006,9.11666666666667
+Dragon Quest V: Hand of the Heavenly Bride,1,Role-Playing (RPG),SquareEnix,84,0.12,29.95,Nintendo DS,T,2008,34.8333333333333
+Burnout Legends,1,"Action,Racing / Driving",EA,38,0.16,17.95,Nintendo DS,E,2005,12.8333333333333
+Blue Dragon,1,Role-Playing (RPG),Microsoft,79,0.27,14.95,X360,T,2006,59.9166666666667
+Blitz: The League II,2,"Action,Sports",Midway,62,0.09,14.95,PlayStation 3,M,2008,20
+TNA iMPACT!,4,Sports,Midway,62,0.26,14.95,X360,M,2008,15.8833333333333
+Lock's Quest,1,"Action,Adventure,Strategy",THQ,80,0.06,14.95,Nintendo DS,E,2008,14.9
+Sprung,1,Adventure,Ubisoft,48,0.06,8.95,Nintendo DS,E,2004,17.75
+Madagascar: Escape 2 Africa,4,Action,Activision,62,0.1,19.95,X360,T,2008,6.5
+Tom Clancy's Ghost Recon: Advanced Warfighter,4,Action,Ubisoft,90,1.46,14.95,X360,E,2006,8.66666666666667
+NHL 09 ,1,Sports,EA,88,0.48,14.95,X360,E,2008,26.6666666666667
+Blazing Angels 2: Secret Missions of WWII,2,Action,Ubisoft,70,0.08,22.95,PlayStation 3,T,2007,13
+Tekken: Dark Resurrection,1,Action,"Namco,Sony",88,0.81,17.95,Sony PSP,E,2006,22.65
+Custom Robo Arena,1,"Action,Role-Playing (RPG)",Nintendo,74,0.01,17.95,Nintendo DS,T,2006,24.0333333333333
+Battlefield: Bad Company,1,Action,EA,83,0.83,16.95,X360,E,2008,8.26666666666667
+Tiger Woods PGA Tour 07,1,Sports,EA,78,0.21,12.95,Sony PSP,E,2006,10
+Big Brain Academy: Wii Degree,8,Action,Nintendo,68,1.1,19.95,Nintendo Wii,M,2007,20
+Kingdom of Paradise,2,"Action,Role-Playing (RPG)",Sony,72,0.13,12.95,Sony PSP,E,2005,23
+Tom Clancy's Rainbow Six: Vegas 2,2,Action,Ubisoft,82,1.61,16.95,X360,M,2008,9.9
+Brothers in Arms DS,1,Action,Ubisoft,72,0.04,17.95,Nintendo DS,E,2007,6.33333333333333
+Tony Hawk's American Wasteland,1,Sports,Activision,75,0.29,14.95,X360,E,2005,12.8833333333333
+No More Heroes,1,"Action,Racing / Driving",Ubisoft,83,0.29,17.95,Nintendo Wii,M,2007,14.6333333333333
+Power Stone Collection,1,Action,Capcom,74,0.08,14.95,Sony PSP,M,2006,8.36666666666667
+SBK: Snowboard Kids,1,"Action,Sports",,63,0.02,19.95,Nintendo DS,E,2006,6.31666666666667
+Mario Strikers Charged,4,"Action,Sports",Nintendo,79,0.93,29.95,Nintendo Wii,E,2007,11.9833333333333
+GoldenEye: Rogue Agent,1,Action,EA,58,0.11,14.95,Nintendo DS,T,2005,9.41666666666667
+Pac-Man World Rally,1,"Action,Racing / Driving",Namco,51,0.04,17.95,Sony PSP,T,2006,2.75
+Metal Gear Solid: Portable Ops,1,"Action,Strategy",Konami,87,0.39,17.95,Sony PSP,T,2006,13.35
+Battlefield 2: Modern Combat,4,Action,EA,77,0.36,16.95,X360,E,2005,7.31666666666667
+Time Crisis 4,2,Action,Namco,60,0.33,24.95,PlayStation 3,M,2007,1.21666666666667
+Wall-E,4,Action,THQ,51,0.48,17.95,Nintendo Wii,E,2008,7.35
+Pokemon Trozei!,1,Strategy,Nintendo,74,0.26,19.95,Nintendo DS,E,2005,3.23333333333333
+Mirror's Edge,1,Action,EA,79,0.5,14.95,X360,T,2008,7.01666666666667
+Turning Point: Fall of Liberty,1,Action,,43,0.24,7.95,X360,M,2008,5.11666666666667
+Dead to Rights: Reckoning,1,Action,Namco,54,0.13,14.95,Sony PSP,E,2005,3.1
+Lair,1,Action,Sony,53,0.35,19.95,PlayStation 3,E,2007,9.28333333333333
+Soulcalibur Legends,2,Action,Namco,52,0.16,16.95,Nintendo Wii,E,2007,10.0333333333333
+Justice League Heroes,1,Action,,72,0.17,17.95,Sony PSP,M,2006,10.3666666666667
+Tenchu Z,1,Action,Microsoft,56,0.28,14.95,X360,E,2006,34.0333333333333
+Unreal Tournament III,2,Action,Midway,82,0.23,14.95,X360,M,2008,14.0666666666667
+Eternal Sonata,2,Role-Playing (RPG),Namco,80,0.14,24.95,PlayStation 3,M,2008,38.15
+Animal Crossing: City Folk,1,Simulation,Nintendo,73,1.78,29.95,Nintendo Wii,T,2008,191.25
+Dokapon Kingdom,1,"Role-Playing (RPG),Strategy",,72,0.12,17.95,Nintendo Wii,M,2008,24.5333333333333
+Asphalt: Urban GT,1,"Racing / Driving,Simulation",Ubisoft,60,0.11,14.95,Nintendo DS,E,2004,12.4
+Yoshi Touch & Go,1,Action,Nintendo,73,0.36,17.95,Nintendo DS,T,2005,4.5
+Condemned: Criminal Origins,1,"Action,Adventure",Sega,81,0.33,14.95,X360,E,2005,8.16666666666667
+College Hoops 2K6,1,Sports,2K,70,0.11,6.95,X360,E,2006,1.55
+NBA 2K8 ,1,Sports,2K,81,0.83,9.95,X360,M,2007,4
+Eragon,4,Action,,59,0.11,14.95,Sony PSP,E,2006,8.83333333333333
+Call of Duty 3,1,Action,Activision,80,0.52,19.95,PlayStation 3,T,2006,8.81666666666667
+Eternal Sonata,1,Role-Playing (RPG),Namco,79,0.15,27.95,X360,M,2007,38.15
+Tom Clancy's EndWar,1,Strategy,Ubisoft,77,0.56,16.95,X360,E,2008,14.5333333333333
+Platypus,2,Action,,59,0.01,14.95,Sony PSP,T,2006,1.43333333333333
+Fallout 3,1,"Action,Role-Playing (RPG)",,93,2.44,17.95,X360,T,2008,60.0666666666667
+Spider-Man: Web of Shadows,1,Action,Activision,67,0.2,24.95,PlayStation 3,E,2008,12.5666666666667
+The Simpsons Game,2,Action,EA,71,0.55,17.95,X360,T,2007,1.03333333333333
