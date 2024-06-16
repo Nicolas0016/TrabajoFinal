@@ -67,7 +67,7 @@ def console_rating_millioners(file: DataFrame) -> DataFrame:
     for consola in file.groupby('console').console.unique():
         console_list.append(consola[0])
 
-    return pd.DataFrame({"Consola":console_list,"Pr. de rating":rating , "Der. Estandar":rating_standar_derivation,"Cant. de Millonarios":millioners_amount}).reset_index(drop=True)
+    return pd.DataFrame({"Consola":console_list,"Pr. de rating":rating , "Der. Estandar":rating_standar_derivation,"Cant. de Millonarios":millioners_amount})
 
 # ¿Cuál es el juego mas caro y cuál es el promedio de precios?
 def prices_by_console(file: DataFrame) -> DataFrame:
