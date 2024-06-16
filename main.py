@@ -1,6 +1,7 @@
-# -*- coding: utf-8 -*-
+# -- coding: utf-8 --
 import pandas as pd
 from pandas import DataFrame
+import numpy as np
 
 def read_file(path: str, step: str = ",") -> DataFrame:
     return pd.read_csv(path, sep=step)
@@ -52,6 +53,29 @@ def xbox360_year(file: DataFrame) -> DataFrame:
     df_xbox_age = consoles.groupby("year").sales.sum()
     return df_xbox_age.idxmax()
 
-archivo = read_file("video_games_curated.csv")
+# ¿Cuál es el rating promedio de cada consola, derivacion estandar y cuantos millonarios pertenecen a la industria?
+def console_rating_millioners(file: DataFrame) -> DataFrame:
+    rating = file.groupby('console').review_score.mean()
+    rating_standar_derivation = file.groupby('console').review_score.std()
+    millioners = file.groupby('console').publisher.unique()
+    millioners_amount = []
+    console_list = []
 
-print(xbox360_year(archivo))
+    for millo in millioners:
+        millioners_amount.append(millo.shape[0])
+    
+    for consola in file.groupby('console').console.unique():
+        console_list.append(consola[0])
+
+    return pd.DataFrame({"Consola":console_list,"Pr. de rating":rating , "Der. Estandar":rating_standar_derivation,"Cant. de Millonarios":millioners_amount}).reset_index(drop=True)
+
+# ¿Cuál es el juego mas caro y cuál es el promedio de precios?
+def prices_by_console(file: DataFrame) -> DataFrame:
+    df = console_rating_millioners(file)
+    index_most_expensive = file.groupby("console")['price'].idxmax()
+    
+    df["Juego mas caro"] = file.loc[index_most_expensive, "title"].values
+    df["Precio"] = file.loc[index_most_expensive, "price"].values
+    df["Precio Promedio"] = file.groupby("console")['price'].mean().values
+    
+    return df
